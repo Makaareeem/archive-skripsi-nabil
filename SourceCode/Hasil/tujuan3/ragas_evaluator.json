@@ -1,0 +1,11 @@
+{
+  "implementation": "ragas_0_4_collections_openai_three_metrics_v1",
+  "judge": "gpt-4o-mini-2024-07-18",
+  "embedding": "text-embedding-3-small",
+  "ragas_version": "0.4.3",
+  "openai_version": "1.109.1",
+  "instructor_version": "1.6.4",
+  "degenerate_threshold": 0.3,
+  "min_len_answer_relevancy": 15,
+  "evaluator_id": "85edb411a3706843a8043481e3d814b59ae4ba89dd02accf4a0c122fc94c22f2"
+}

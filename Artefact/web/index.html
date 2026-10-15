@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#ffffff">
+<title>Question Answering Publikasi Statistik BPS</title>
+<link rel="stylesheet" href="styles.css?v=20260929-compact2">
+</head>
+<body class="landing">
+<a class="skip-link" href="#q" onclick="openQuestionEditor()">Langsung ke pertanyaan</a>
+<div id="notifications" class="notifications" aria-label="Pemberitahuan"></div>
+<header class="topbar">
+  <div class="nav-inner">
+    <div class="brand">Publikasi Statistik<span>Badan Pusat Statistik</span></div>
+    <nav class="nav-links" aria-label="Panduan">
+      <button type="button" onclick="openModal('howto')">Cara pakai</button>
+      <button type="button" onclick="openModal('howwork')">Cara kerja</button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap" id="main">
+  <header class="hero">
+    <p class="eyebrow">JELAJAHI PENGETAHUAN DARI PUBLIKASI</p>
+    <h1>Question Answering<br><span>Publikasi Statistik BPS</span></h1>
+    <p class="sub">Retrieval-Augmented Generation dengan Small Language Model</p>
+    <p class="hero-note">Ajukan pertanyaan, pahami jawabannya, dan telusuri sumbernya.</p>
+  </header>
+  <div class="topic-line"><span>Topik yang dapat Anda jelajahi</span><span class="typewriter" id="typewriter" aria-hidden="true"></span><span class="sr-only">Kemiskinan, pembangunan manusia, ketenagakerjaan, dan kesejahteraan rakyat.</span></div>
+
+  <section id="questionSummary" class="question-summary" aria-label="Pertanyaan penelusuran" hidden>
+    <div class="question-summary-copy"><span class="summary-label">Pertanyaan</span><p id="summaryQuestion"></p></div>
+    <div class="summary-actions"><button id="summaryCancelBtn" class="button button-secondary" type="button" onclick="cancelAsk()" hidden>Batalkan</button>
+    <button id="editQuestionBtn" class="button button-secondary" type="button" aria-controls="questionForm" aria-expanded="false" onclick="openQuestionEditor()">Ubah</button></div>
+  </section>
+
+  <form id="questionForm" class="composer" novalidate onsubmit="event.preventDefault(); ask()">
+    <button id="backToResults" class="back-results" type="button" onclick="returnToResults()" hidden>&larr; Kembali ke hasil</button>
+    <div class="composer-heading">
+      <label for="q">Apa yang ingin Anda ketahui?</label>
+      <span class="service-status" id="status" role="status" data-state="checking">Memeriksa layanan</span>
+    </div>
+    <textarea id="q" rows="1" maxlength="1500" placeholder="Contoh: Apa saja dimensi dalam Indeks Pembangunan Manusia?"
+      aria-describedby="questionHint questionCount error" autocomplete="off"></textarea>
+    <div class="input-help"><span id="questionHint">Sebutkan topik; tambahkan wilayah dan tahun bila diperlukan.</span><span id="questionCount">0 / 1.500</span></div>
+    <div id="error" class="inline-message" role="status" style="display:none"></div>
+    <div class="composer-toolbar">
+      <div class="field model-field">
+        <label for="model">Model</label>
+        <select id="model">
+          <option value="llama3.2-finetuned">Llama 3.2 · Fine-tuned</option>
+          <option value="llama3.2-base">Llama 3.2 · Dasar</option>
+          <option value="gemma2-finetuned">Gemma 2 · Fine-tuned</option>
+          <option value="gemma2-base">Gemma 2 · Dasar</option>
+        </select>
+      </div>
+      <div class="field">
+        <span id="styleLabel" class="field-label">Panjang jawaban</span>
+        <div class="style-toggle" id="styleToggle" role="group" aria-labelledby="styleLabel">
+          <button type="button" data-style="ringkas" aria-pressed="false" onclick="setStyle('ringkas')">Ringkas</button>
+          <button type="button" data-style="detail" class="active" aria-pressed="true" onclick="setStyle('detail')">Detail</button>
+        </div>
+      </div>
+      <div class="composer-actions">
+        <button id="cancelBtn" class="button button-secondary" type="button" onclick="cancelAsk()" hidden>Batalkan</button>
+        <button id="btn" class="button button-primary" type="submit">Tanyakan <span aria-hidden="true">&#8599;</span></button>
+      </div>
+    </div>
+    <p class="keyboard-hint">Enter untuk mengirim <span aria-hidden="true">·</span> Shift + Enter untuk baris baru</p>
+  </form>
+
+  <div class="examples" aria-label="Contoh pertanyaan">
+    <span>Mulai dari topik</span>
+    <button type="button" data-question="Bagaimana BPS mengukur kemiskinan?">Kemiskinan <span aria-hidden="true">&#8599;</span></button>
+    <button type="button" data-question="Apa saja dimensi dalam Indeks Pembangunan Manusia?">Pembangunan manusia <span aria-hidden="true">&#8599;</span></button>
+    <button type="button" data-question="Apa yang dimaksud dengan Tingkat Pengangguran Terbuka?">Ketenagakerjaan <span aria-hidden="true">&#8599;</span></button>
+  </div>
+
+  <section class="think-card" id="thinkCard" aria-label="Proses penelusuran" style="display:none">
+    <button type="button" id="thinkToggle" class="think-toggle" aria-expanded="true" aria-controls="thinkBody" onclick="toggleThink()">
+      <span class="process-dot" aria-hidden="true"></span><span id="thinkSummary">Menyiapkan jawaban</span><span class="think-arrow" id="thinkArrow" aria-hidden="true">&#9662;</span>
+    </button>
+    <div class="think-body open" id="thinkBody">
+      <div id="thinkSteps"></div>
+      <div class="rank-table" id="rankTable" style="display:none"></div>
+      <div id="processMeta" class="process-meta"></div>
+    </div>
+  </section>
+
+  <section class="answer-card" id="ansCard" aria-labelledby="answerTitle" style="display:none">
+    <div class="answer-heading"><h2 id="answerTitle" tabindex="-1">Jawaban</h2><span class="answer-badge">Berdasarkan sumber publikasi</span></div>
+    <p id="answerQuestion" class="answer-question"></p>
+    <div id="answerState" class="answer-state" role="status"></div>
+    <div id="answer"></div>
+    <div id="warnings" class="warnings"></div>
+    <div class="meta" id="meta"></div>
+  </section>
+
+  <div class="layout">
+    <div class="main-col">
+      <section class="src-section" id="srcSection" aria-labelledby="sourcesTitle" style="display:none">
+        <div class="section-heading"><div><h2 id="sourcesTitle">Sumber publikasi <span id="sourceCount" class="count-badge"></span></h2><p>Cuplikan asli untuk membantu Anda memeriksa jawaban.</p></div></div>
+        <div class="src-grid" id="sources"></div>
+      </section>
+    </div>
+    <aside class="side-col" hidden>
+      <section class="other-src-section" id="otherSrcSection" aria-labelledby="otherSourcesTitle" style="display:none">
+        <h2 id="otherSourcesTitle">Publikasi terkait lainnya</h2>
+        <p class="aside-note">Dokumen lain yang ditemukan dalam penelusuran.</p>
+        <div class="other-src-list" id="otherSrcList"></div>
+      </section>
+    </aside>
+  </div>
+</main>
+<footer class="site-footer">Baca publikasi asli untuk memeriksa konteks, periode, dan angka dalam jawaban.</footer>
+
+<dialog id="modalOverlay" class="guide-dialog" aria-labelledby="modalTitle">
+  <button id="modalClose" type="button" aria-label="Tutup panduan" class="modal-close" onclick="closeModal()">&times;</button>
+  <div id="modalContent"></div>
+</dialog>
+<script src="api-config.js"></script>
+<script src="question-validation.js" defer></script>
+<script src="app.js?v=20260929-compact2" defer></script>
+</body>
+</html>

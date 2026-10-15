@@ -1,0 +1,41 @@
+{
+  "dataset_version": "v2.0",
+  "generation_model": "deepseek-v4-flash",
+  "generation_timestamp": "2026-09-02T08:04:07+00:00",
+  "total_documents": 47,
+  "total_sections_raw": 7535,
+  "total_sections_selected": 1069,
+  "filter_statistics": {
+    "too_short": 835,
+    "noise_title": 14,
+    "all_non_text": 108
+  },
+  "total_raw_records": 12261,
+  "total_failures": 17,
+  "total_skipped_items": 3911,
+  "token_usage": {
+    "prompt_tokens": 26502232,
+    "completion_tokens": 5526860,
+    "total_tokens": 32029092,
+    "cached_tokens": 12173184
+  },
+  "cache_hit_rate_pct": 45.93,
+  "parse_status_distribution": {
+    "direct": 4995,
+    "fence_stripped": 1184,
+    "extracted_object_wrapped": 17,
+    "failed": 17,
+    "extracted": 1
+  },
+  "task_distribution_raw": {
+    "qa/factual_retrieval": 1778,
+    "qa/source_navigation": 1357,
+    "qa/methodology_explanation": 1444,
+    "qa/definition_clarification": 1492,
+    "qa/trend_interpretation": 1329,
+    "qa/causal_reasoning": 1337,
+    "qa/comparative_analysis": 1453,
+    "qa/multi_source_synthesis": 1308,
+    "summary/document_overview": 763
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "pipeline_version": "chunking_v3_rag",
+  "n_documents": 47,
+  "total_chunks": 22603,
+  "chunk_type_distribution": {
+    "toc_table": 121,
+    "toc_figure": 85,
+    "text_only": 21295,
+    "figure_rich": 643,
+    "mixed_rich": 152,
+    "table_rich": 307
+  },
+  "provenance_fallback_count": 311,
+  "provenance_fallback_pct": 1.38,
+  "exclusion_summary": {
+    "garbage_chunk": 2647,
+    "front_matter_content": 64,
+    "front_matter": 228,
+    "reference": 1399,
+    "ocr_broken": 8,
+    "reference_content": 1
+  },
+  "per_document": [
+    {
+      "source_file": "analisis-petty-corruption-hasil-spak-2020---2024.pdf",
+      "n_sections": 115,
+      "n_chunks": 372,
+      "n_toc_chunks": 9
+    },
+    {
+      "source_file": "indeks-pembangunan-manusia-2022.pdf",
+      "n_sections": 230,
+      "n_chunks": 262,
+      "n_toc_chunks": 4
+    },
+    {
+      "source_file": "indeks-pembangunan-manusia-2023.pdf",
+      "n_sections": 125,
+      "n_chunks": 266,
+      "n_toc_chunks": 20
+    },
+    {
+      "source_file": "indeks-pembangunan-manusia-2024.pdf",
+      "n_sections": 186,
+      "n_chunks": 336,
+      "n_toc_chunks": 12
+    },
+    {
+      "source_file": "indeks-perilaku-anti-korupsi-2023.pdf",
+      "n_sections": 94,
+      "n_chunks": 145,
+      "n_toc_chunks": 10
+    },
+    {
+      "source_file": "indeks-perilaku-anti-korupsi-2024.pdf",
+      "n_sections": 117,
+      "n_chunks": 218,
+      "n_toc_chunks": 9
+    },
+    {
+      "source_file": "indikator-kesejahteraan-rakyat-2023.pdf",
+      "n_sections": 226,
+      "n_chunks": 421,
+      "n_toc_chunks": 11
+    },
+    {
+      "source_file": "indikator-kesejahteraan-rakyat-2024.pdf",
+      "n_sections": 175,
+      "n_chunks": 399,
+      "n_toc_chunks": 7
+    },
+    {
+      "source_file": "indikator-kesejahteraan-rakyat-2025.pdf",
+      "n_sections": 139,
+      "n_chunks": 263,
+      "n_toc_chunks": 6
+    },
+    {
+      "source_file": "indikator-sdgs-kesejahteraan-rakyat-2024.pdf",
+      "n_sections": 162,
+      "n_chunks": 372,
+      "n_toc_chunks": 2
+    },
+    {
+      "source_file": "indikator-sdgs-kesejahteraan-rakyat-2025.pdf",
+      "n_sections": 209,
+      "n_chunks": 322,
+      "n_toc_chunks": 2
+    },
+    {
+      "source_file": "infografis-statistik-kesejahteraan-rakyat-2025.pdf",
+      "n_sections": 68,
+      "n_chunks": 43,
+      "n_toc_chunks": 0
+    },
+    {
+      "source_file": "kesejahteraan-anak-indonesia--analisis-deprivasi-hak-anak-multidimensi-2022.pdf",
+      "n_sections": 87,
+      "n_chunks": 158,
+      "n_toc_chunks": 2
+    },
+    {
+      "source_file": "kesejahteraan-anak-indonesia--analisis-kemiskinan-anak-moneter-2022.pdf",
+      "n_sections": 43,
+      "n_chunks": 137,
+      "n_toc_chunks": 4
+    },
+    {
+      "source_file": "laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023.pdf",
+      "n_sections": 163,
+      "n_chunks": 119,
+      "n_toc_chunks": 0
+    },
+    {
+      "source_file": "laporan-indeks-khusus-penanganan-stunting-2021-2022.pdf",
+      "n_sections": 172,
+      "n_chunks": 128,
+      "n_toc_chunks": 0
+    },
+    {
+      "source_file": "laporan-indeks-khusus-penanganan-stunting-kabupaten-kota-2021-2022.pdf",
+      "n_sections": 1977,
+      "n_chunks": 615,
+      "n_toc_chunks": 0
+    },
+    {
+      "source_file": "profil-anak-usia-dini-2023.pdf",
+      "n_sections": 94,
+      "n_chunks": 276,
+      "n_toc_chunks": 25
+    },
+    {
+      "source_file": "profil-anak-usia-dini-2024.pdf",
+      "n_sections": 97,
+      "n_chunks": 270,
+      "n_toc_chunks": 1
+    },
+    {
+      "source_file": "profil-anak-usia-dini-2025.pdf",
+      "n_sections": 104,
+      "n_chunks": 248,
+      "n_toc_chunks": 0
+    },
+    {
+      "source_file": "profil-kesehatan-ibu-dan-anak-2024.pdf",
+      "n_sections": 96,
+      "n_chunks": 817,
+      "n_toc_chunks": 0
+    },
+    {
+      "source_file": "profil-statistik-kesehatan-2023.pdf",
+      "n_sections": 337,
+      "n_chunks": 564,
+      "n_toc_chunks": 2
+    },
+    {
+      "source_file": "profil-statistik-kesehatan-2025.pdf",
+      "n_sections": 527,
+      "n_chunks": 608,
+      "n_toc_chunks": 2
+    },
+    {
+      "source_file": "statistik-indonesia-2023.pdf",
+      "n_sections": 824,
+      "n_chunks": 1466,
+      "n_toc_chunks": 1
+    },
+    {
+      "source_file": "statistik-indonesia-2024.pdf",
+      "n_sections": 992,
+      "n_chunks": 1665,
+      "n_toc_chunks": 1
+    },
+    {
+      "source_file": "statistik-indonesia-2025.pdf",
+      "n_sections": 966,
+      "n_chunks": 1801,
+      "n_toc_chunks": 1
+    },
+    {
+      "source_file": "statistik-kesehatan-2022.pdf",
+      "n_sections": 148,
+      "n_chunks": 268,
+      "n_toc_chunks": 17
+    },
+    {
+      "source_file": "statistik-kesejahteraan-rakyat-2023.pdf",
+      "n_sections": 287,
+      "n_chunks": 1216,
+      "n_toc_chunks": 0
+    },
+    {
+      "source_file": "statistik-kesejahteraan-rakyat-2024.pdf",
+      "n_sections": 300,
+      "n_chunks": 1705,
+      "n_toc_chunks": 0
+    },
+    {
+      "source_file": "statistik-kesejahteraan-rakyat-2025.pdf",
+      "n_sections": 226,
+      "n_chunks": 1602,
+      "n_toc_chunks": 0
+    },
+    {
+      "source_file": "statistik-kriminal-2023.pdf",
+      "n_sections": 105,
+      "n_chunks": 218,
+      "n_toc_chunks": 1
+    },
+    {
+      "source_file": "statistik-kriminal-2024-2025.pdf",
+      "n_sections": 187,
+      "n_chunks": 196,
+      "n_toc_chunks": 5
+    },
+    {
+      "source_file": "statistik-kriminal-2024.pdf",
+      "n_sections": 157,
+      "n_chunks": 146,
+      "n_toc_chunks": 1
+    },
+    {
+      "source_file": "statistik-pemuda-indonesia-2023.pdf",
+      "n_sections": 155,
+      "n_chunks": 659,
+      "n_toc_chunks": 3
+    },
+    {
+      "source_file": "statistik-pemuda-indonesia-2024.pdf",
+      "n_sections": 212,
+      "n_chunks": 562,
+      "n_toc_chunks": 4
+    },
+    {
+      "source_file": "statistik-pemuda-indonesia-2025.pdf",
+      "n_sections": 205,
+      "n_chunks": 541,
+      "n_toc_chunks": 4
+    },
+    {
+      "source_file": "statistik-pendidikan-2023.pdf",
+      "n_sections": 57,
+      "n_chunks": 273,
+      "n_toc_chunks": 2
+    },
+    {
+      "source_file": "statistik-pendidikan-2024.pdf",
+      "n_sections": 109,
+      "n_chunks": 260,
+      "n_toc_chunks": 2
+    },
+    {
+      "source_file": "statistik-pendidikan-2025.pdf",
+      "n_sections": 64,
+      "n_chunks": 292,
+      "n_toc_chunks": 15
+    },
+    {
+      "source_file": "statistik-penduduk-lanjut-usia-2023.pdf",
+      "n_sections": 124,
+      "n_chunks": 369,
+      "n_toc_chunks": 3
+    },
+    {
+      "source_file": "statistik-penduduk-lanjut-usia-2024.pdf",
+      "n_sections": 166,
+      "n_chunks": 462,
+      "n_toc_chunks": 2
+    },
+    {
+      "source_file": "statistik-penduduk-lanjut-usia-2025.pdf",
+      "n_sections": 168,
+      "n_chunks": 403,
+      "n_toc_chunks": 2
+    },
+    {
+      "source_file": "statistik-penunjang-pendidikan-2024.pdf",
+      "n_sections": 94,
+      "n_chunks": 279,
+      "n_toc_chunks": 10
+    },
+    {
+      "source_file": "statistik-politik-2023.pdf",
+      "n_sections": 37,
+      "n_chunks": 127,
+      "n_toc_chunks": 0
+    },
+    {
+      "source_file": "statistik-politik-2024.pdf",
+      "n_sections": 195,
+      "n_chunks": 264,
+      "n_toc_chunks": 2
+    },
+    {
+      "source_file": "statistik-politik-2025.pdf",
+      "n_sections": 135,
+      "n_chunks": 181,
+      "n_toc_chunks": 2
+    },
+    {
+      "source_file": "statistik-sosial-budaya-2024.pdf",
+      "n_sections": 115,
+      "n_chunks": 289,
+      "n_toc_chunks": 0
+    }
+  ],
+  "extraction_quality_source": "quality_report_tipe_2"
+}

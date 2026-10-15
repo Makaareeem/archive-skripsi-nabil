@@ -1,0 +1,13 @@
+rank,model_name,hf_id,indommlu_acc,indocareer_acc,final_score_50_50,indommlu_n,indocareer_n
+1,Llama-3.1-8B,meta-llama/Llama-3.1-8B-Instruct,48.5576,50.3992,49.4784,14906,8768
+2,Llama3.2-3B,meta-llama/Llama-3.2-3B-Instruct,44.888,45.5178,45.2029,14906,8768
+3,Gemma-2-2B,google/gemma-2-2b-it,43.989,43.7386,43.8638,14906,8768
+4,Mistral-7B,mistralai/Mistral-7B-Instruct-v0.3,43.298,44.0237,43.6609,14906,8768
+5,Qwen2.5-7B,Qwen/Qwen2.5-7B-Instruct,40.259,41.7085,40.9837,14906,8768
+6,Phi-3.5-mini,microsoft/Phi-3.5-mini-instruct,40.1114,41.0128,40.5621,14906,8768
+7,Llama3.2-1B,meta-llama/Llama-3.2-1B-Instruct,31.8328,31.4667,31.6498,14906,8768
+8,Qwen2.5-3B,Qwen/Qwen2.5-3B-Instruct,29.9007,29.6419,29.7713,14906,8768
+9,Qwen2.5-1.5B,Qwen/Qwen2.5-1.5B-Instruct,26.439,25.536,25.9875,14906,8768
+10,Qwen2.5-0.5B,Qwen/Qwen2.5-0.5B-Instruct,25.104,25.1141,25.109,14906,8768
+11,SmolLM2-360M,HuggingFaceTB/SmolLM2-360M-Instruct,24.7618,24.7947,24.7783,14906,8768
+12,SmolLM2-135M,HuggingFaceTB/SmolLM2-135M-Instruct,24.7283,24.099,24.4136,14906,8768

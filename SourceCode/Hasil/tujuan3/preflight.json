@@ -1,0 +1,27 @@
+{
+  "backend_url": "http://127.0.0.1:8000",
+  "ollama_url": "http://localhost:11434",
+  "health": {
+    "ready": true,
+    "inference_reachable": true,
+    "available_models": [
+      "llama3.2-base",
+      "llama3.2-finetuned",
+      "gemma2-base",
+      "gemma2-finetuned"
+    ],
+    "default_model": "llama3.2-finetuned"
+  },
+  "scope": "production",
+  "api_version": "0.2.0",
+  "resolved_tags": {
+    "llama3.2-finetuned": "llama3.2-finetuned:latest",
+    "gemma2-finetuned": "gemma2-finetuned:latest"
+  },
+  "available_tags": [
+    "gemma2-base:latest",
+    "gemma2-finetuned:latest",
+    "llama3.2-base:latest",
+    "llama3.2-finetuned:latest"
+  ]
+}

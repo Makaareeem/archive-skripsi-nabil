@@ -1,0 +1,1120 @@
+{
+  "status": "pass",
+  "issues": [],
+  "events": [
+    {
+      "event": "queued",
+      "elapsed_s": 0.015182999995886348
+    },
+    {
+      "event": "expanding",
+      "elapsed_s": 0.017145000005257316
+    },
+    {
+      "event": "expanded",
+      "elapsed_s": 0.021244100003968924
+    },
+    {
+      "event": "retrieving",
+      "elapsed_s": 0.021727400002419017
+    },
+    {
+      "event": "reranked",
+      "elapsed_s": 0.1231746999983443
+    },
+    {
+      "event": "sources",
+      "elapsed_s": 0.1404121999948984
+    },
+    {
+      "event": "generating",
+      "elapsed_s": 0.1406416999961948
+    },
+    {
+      "event": "heartbeat",
+      "elapsed_s": 5.069665999995777
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.049663199999486
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.08658750000177
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.129775199995493
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.164926900004502
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.204740999994101
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.246384199999738
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.285698899999261
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.325676499996916
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.373331399998278
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.416857399992296
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.46228809999593
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.507468800002243
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.551522599998862
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.591892399999779
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.634129300000495
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.672429199999897
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.715697799998452
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.75875609999639
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.801424999997835
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.84624869999243
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.885855799991987
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.92626239999663
+    },
+    {
+      "event": "token",
+      "elapsed_s": 9.967913600004977
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.012117199992645
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.055973800001084
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.098681100003887
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.138600199992652
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.177504999999655
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.22038060000341
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.270830499997828
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.319774100003997
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.372809899999993
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.427772399998503
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.480221000005258
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.528273699994315
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.57767280000553
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.625326599998516
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.674022099992726
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.720408699999098
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.771903699991526
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.818702399992617
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.868328399999882
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.916030199994566
+    },
+    {
+      "event": "token",
+      "elapsed_s": 10.962466099997982
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.00766790000489
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.054150700001628
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.098664599994663
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.143698799991398
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.184367099995143
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.226419999991776
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.263643099999172
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.30272029999469
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.348360200005118
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.392495499996585
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.439007499997388
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.480601399991428
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.527178899996215
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.571088400000008
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.615147499993327
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.659010599993053
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.704696799992234
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.754885999995167
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.80361429999175
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.851050400000531
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.896865999995498
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.945962199999485
+    },
+    {
+      "event": "token",
+      "elapsed_s": 11.993601599999238
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.039123800001107
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.086041599992313
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.13628140000219
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.184058999991976
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.230462699997588
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.275572300000931
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.32377629999246
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.3713235000032
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.416784100001678
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.460653899994213
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.504918199992971
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.548881800001254
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.589626999993925
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.627621199993882
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.671712499999558
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.720556100000977
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.765675100003136
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.81271129999368
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.85999399999855
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.903528700000606
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.950133999998798
+    },
+    {
+      "event": "token",
+      "elapsed_s": 12.996128400001908
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.048351799996453
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.089506299991626
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.136564899992663
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.178267600000254
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.224528699996881
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.266018700000132
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.312321999997948
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.36263419999159
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.40790659999766
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.4513905000058
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.496380800002953
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.54263660000288
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.591428999992786
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.638162000002922
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.685653499996988
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.732990000004065
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.7803472999949
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.824575099992217
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.871520100001362
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.922916800001985
+    },
+    {
+      "event": "token",
+      "elapsed_s": 13.97298769999179
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.021065299995826
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.07243390000076
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.119449199992232
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.166599000003771
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.214821699992171
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.264572700005374
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.313532999993186
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.363326299993787
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.415745999998762
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.460599800004275
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.50937050000357
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.556455700003426
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.605147199996281
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.655425399992964
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.70656799999415
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.754732999994303
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.80620180000551
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.853624399998807
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.902105999994092
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.951379799997085
+    },
+    {
+      "event": "token",
+      "elapsed_s": 14.998738599999342
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.046914699996705
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.09428449999541
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.141786899999715
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.193688300001668
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.244967599996016
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.296827600002871
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.344816800003173
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.393375300001935
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.435173099991516
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.482643600000301
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.523480799995014
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.567368999996688
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.612743599995156
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.661365699997987
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.712376099996618
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.761659299998428
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.811360399995465
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.861612900000182
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.91191599999729
+    },
+    {
+      "event": "token",
+      "elapsed_s": 15.959923999995226
+    },
+    {
+      "event": "token",
+      "elapsed_s": 16.012774799994077
+    },
+    {
+      "event": "token",
+      "elapsed_s": 16.063215100002708
+    },
+    {
+      "event": "token",
+      "elapsed_s": 16.112925800000085
+    },
+    {
+      "event": "token",
+      "elapsed_s": 16.159255499995197
+    },
+    {
+      "event": "token",
+      "elapsed_s": 16.212790199992014
+    },
+    {
+      "event": "token",
+      "elapsed_s": 16.26605479999853
+    },
+    {
+      "event": "token",
+      "elapsed_s": 16.316890500005684
+    },
+    {
+      "event": "token",
+      "elapsed_s": 16.371058499993524
+    },
+    {
+      "event": "answer",
+      "elapsed_s": 16.426087899992126
+    },
+    {
+      "event": "citing",
+      "elapsed_s": 16.426420300005702
+    },
+    {
+      "event": "heartbeat",
+      "elapsed_s": 17.436909399999422
+    },
+    {
+      "event": "heartbeat",
+      "elapsed_s": 22.484001000004355
+    },
+    {
+      "event": "heartbeat",
+      "elapsed_s": 27.53750459999719
+    },
+    {
+      "event": "heartbeat",
+      "elapsed_s": 32.59456709999358
+    },
+    {
+      "event": "heartbeat",
+      "elapsed_s": 37.65337200000067
+    },
+    {
+      "event": "heartbeat",
+      "elapsed_s": 42.70360100000107
+    },
+    {
+      "event": "heartbeat",
+      "elapsed_s": 47.76378069999919
+    },
+    {
+      "event": "heartbeat",
+      "elapsed_s": 52.82504450000124
+    },
+    {
+      "event": "sources",
+      "elapsed_s": 53.709281200004625
+    },
+    {
+      "event": "done",
+      "elapsed_s": 53.85383710000315
+    }
+  ],
+  "client_first_draft_token_s": 9.049663199999486,
+  "client_checked_answer_s": 16.426087899992126,
+  "client_total_s": 53.854103099991335,
+  "response": {
+    "answer": "[1] IKPS adalah instrumen untuk mengukur kinerja pelaksanaan program percepatan penurunan stunting di tingkat nasional, provinsi, hingga kabupaten/kota dalam memenuhi aspek evaluasi. IKPS disusun sebagai salah satu instrumen untuk mengukur kinerja pelaksanaan program percepatan penurunan stunting di tingkat nasional, provinsi, hingga kabupaten/kota dalam memenuhi aspek evaluasi. \n\nIKPS merupakan instrumen yang digunakan untuk mengukur kinerja pelaksanaan program percepatan penurunan stunting di tingkat nasional, provinsi, hingga kabupaten/kota dalam memenuhi aspek evaluasi.",
+    "answer_status": "basic_checks_passed",
+    "sources": [
+      {
+        "source_id": "faiss:3729",
+        "chunk_id": "laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023__sec_008__c004",
+        "document_title": "Laporan Indeks Khusus Penanganan Stunting (IKPS) 2022–2023",
+        "document_year": "2024",
+        "section_id": "sec_008",
+        "page_start": 24,
+        "page_end": 24,
+        "bps_url": "https://www.bps.go.id/id/publication/2024/12/19/b87a8f73426081075be407fe/laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023.html",
+        "score": 4.266598701477051,
+        "index": 1,
+        "answer": "",
+        "quote": "Indeks Khusus Penanganan Stunting (IKPS) disusun sabagai salah satu instrumen untuk mengukur kinerja pelaksanaan program percepatan penurunan stunting di tingkat nasional, provinsi, hingga tingkat kabupaten/kota dalam memenuhi aspek evaluasi.",
+        "citation_status": "excerpt_only"
+      },
+      {
+        "source_id": "faiss:3731",
+        "chunk_id": "laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023__sec_009__c001",
+        "document_title": "Laporan Indeks Khusus Penanganan Stunting (IKPS) 2022–2023",
+        "document_year": "2024",
+        "section_id": "sec_009",
+        "page_start": 25,
+        "page_end": 28,
+        "bps_url": "https://www.bps.go.id/id/publication/2024/12/19/b87a8f73426081075be407fe/laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023.html",
+        "score": 4.04408597946167,
+        "index": 2,
+        "answer": "",
+        "quote": "Laporan Indeks Khusus Penanganan Stunting 2022–2023 disusun dengan tujuan untuk memenuhi kebutuhan data dan informasi bagi pemerintah dalam memantau kinerja penanganan stunting di Indonesia.",
+        "citation_status": "excerpt_only"
+      },
+      {
+        "source_id": "faiss:3841",
+        "chunk_id": "laporan-indeks-khusus-penanganan-stunting-2021-2022__sec_008__c001",
+        "document_title": "Laporan Indeks Khusus Penanganan Stunting 2021–2022",
+        "document_year": "2023",
+        "section_id": "sec_008",
+        "page_start": 24,
+        "page_end": 25,
+        "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/37ee0674d0e89152b2425e9f/laporan-indeks-khusus-penanganan-stunting-2021-2022.html",
+        "score": 3.5450541973114014,
+        "index": 3,
+        "answer": "",
+        "quote": "Hal ini dikarenakan IKPS merupakan bagian dari monitoring dan evaluasi, yaitu merupakan salah satu indeks yang bisa dipantau secara periodik untuk melihat implementasi dari program penanganan stunting.",
+        "citation_status": "excerpt_only"
+      },
+      {
+        "source_id": "faiss:3983",
+        "chunk_id": "laporan-indeks-khusus-penanganan-stunting-kabupaten-kota-2021-2022__sec_034__c001",
+        "document_title": "Laporan Indeks Khusus Penanganan Stunting Kabupaten/Kota 2021–2022",
+        "document_year": "2023",
+        "section_id": "sec_034",
+        "page_start": 52,
+        "page_end": 53,
+        "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/7d87599450712cf4bab879f2/laporan-indeks-khusus-penanganan-stunting-kabupaten-kota-2021-2022.html",
+        "score": 3.4812209606170654,
+        "index": 4,
+        "answer": "",
+        "quote": "Hal ini dikarenakan IKPS merupakan bagian dari monitoring dan evaluasi, yaitu merupakan salah satu indeks yang bisa dipantau secara periodik untuk melihat implementasi dari program penanganan stunting.",
+        "citation_status": "excerpt_only"
+      },
+      {
+        "source_id": "faiss:3840",
+        "chunk_id": "laporan-indeks-khusus-penanganan-stunting-2021-2022__sec_007__c001",
+        "document_title": "Laporan Indeks Khusus Penanganan Stunting 2021–2022",
+        "document_year": "2023",
+        "section_id": "sec_007",
+        "page_start": 23,
+        "page_end": 24,
+        "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/37ee0674d0e89152b2425e9f/laporan-indeks-khusus-penanganan-stunting-2021-2022.html",
+        "score": 3.2183454036712646,
+        "index": 5,
+        "answer": "",
+        "quote": "Laporan Indeks Khusus Penanganan Stunting 2021-2022 disusun dengan tujuan untuk memenuhi kebutuhan data dan informasi bagi pemerintah dalam memantau kinerja penanganan stunting di Indonesia.",
+        "citation_status": "excerpt_only"
+      }
+    ],
+    "other_sources": [],
+    "warnings": [
+      "Sebagian ringkasan sumber tidak tersedia; cuplikan asli tetap ditampilkan."
+    ],
+    "latency": {
+      "expansion_s": 0.0,
+      "search_rerank_s": 0.001,
+      "retrieval_s": 0.001,
+      "generation_s": 16.41,
+      "citation_s": 37.263,
+      "first_token_s": 9.041,
+      "processing_s": 53.677,
+      "queue_s": 0.001,
+      "total_s": 53.677
+    },
+    "config": {
+      "model_key": "llama3.2-finetuned",
+      "use_rag": true,
+      "response_style": "detail",
+      "num_ctx": 8192,
+      "kb_fingerprint": "7cc7181d5cacb1ed77f70456fabe4983f0565fde851c7b87e1f3eb8468905ff1",
+      "threshold": -1.0,
+      "evaluation": false
+    },
+    "cache": {
+      "expansion": true,
+      "search_rerank": true,
+      "enabled": true
+    },
+    "generation_metrics": {
+      "load_duration": 7327057100,
+      "prompt_eval_count": 2055,
+      "prompt_eval_duration": 1678372000,
+      "eval_count": 160,
+      "eval_duration": 7372406000,
+      "total_duration": 16405339900,
+      "done_reason": "stop"
+    },
+    "process": {
+      "original_query": "Apa yang dimaksud dengan Indeks Khusus Penanganan Stunting (IKPS) menurut publikasi BPS?",
+      "expanded_queries": [
+        "IKPS adalah Indeks Khusus Penanganan Stunting yang digunakan untuk mengukur tingkat penanganan stunting di suatu wilayah."
+      ],
+      "reranked": [
+        {
+          "source_id": "faiss:3729",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023__sec_008__c004",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting (IKPS) 2022–2023",
+          "document_year": "2024",
+          "section_id": "sec_008",
+          "page_start": 24,
+          "page_end": 24,
+          "bps_url": "https://www.bps.go.id/id/publication/2024/12/19/b87a8f73426081075be407fe/laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023.html",
+          "score": 4.266598701477051,
+          "passed": true,
+          "selected": true
+        },
+        {
+          "source_id": "faiss:3731",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023__sec_009__c001",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting (IKPS) 2022–2023",
+          "document_year": "2024",
+          "section_id": "sec_009",
+          "page_start": 25,
+          "page_end": 28,
+          "bps_url": "https://www.bps.go.id/id/publication/2024/12/19/b87a8f73426081075be407fe/laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023.html",
+          "score": 4.04408597946167,
+          "passed": true,
+          "selected": true
+        },
+        {
+          "source_id": "faiss:3841",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting-2021-2022__sec_008__c001",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting 2021–2022",
+          "document_year": "2023",
+          "section_id": "sec_008",
+          "page_start": 24,
+          "page_end": 25,
+          "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/37ee0674d0e89152b2425e9f/laporan-indeks-khusus-penanganan-stunting-2021-2022.html",
+          "score": 3.5450541973114014,
+          "passed": true,
+          "selected": true
+        },
+        {
+          "source_id": "faiss:3983",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting-kabupaten-kota-2021-2022__sec_034__c001",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting Kabupaten/Kota 2021–2022",
+          "document_year": "2023",
+          "section_id": "sec_034",
+          "page_start": 52,
+          "page_end": 53,
+          "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/7d87599450712cf4bab879f2/laporan-indeks-khusus-penanganan-stunting-kabupaten-kota-2021-2022.html",
+          "score": 3.4812209606170654,
+          "passed": true,
+          "selected": true
+        },
+        {
+          "source_id": "faiss:3840",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting-2021-2022__sec_007__c001",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting 2021–2022",
+          "document_year": "2023",
+          "section_id": "sec_007",
+          "page_start": 23,
+          "page_end": 24,
+          "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/37ee0674d0e89152b2425e9f/laporan-indeks-khusus-penanganan-stunting-2021-2022.html",
+          "score": 3.2183454036712646,
+          "passed": true,
+          "selected": true
+        },
+        {
+          "source_id": "faiss:3982",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting-kabupaten-kota-2021-2022__sec_033__c001",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting Kabupaten/Kota 2021–2022",
+          "document_year": "2023",
+          "section_id": "sec_033",
+          "page_start": 51,
+          "page_end": 52,
+          "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/7d87599450712cf4bab879f2/laporan-indeks-khusus-penanganan-stunting-kabupaten-kota-2021-2022.html",
+          "score": 3.1264891624450684,
+          "passed": true,
+          "selected": false
+        },
+        {
+          "source_id": "faiss:3900",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting-2021-2022__sec_029__c001",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting 2021–2022",
+          "document_year": "2023",
+          "section_id": "sec_029",
+          "page_start": 57,
+          "page_end": 57,
+          "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/37ee0674d0e89152b2425e9f/laporan-indeks-khusus-penanganan-stunting-2021-2022.html",
+          "score": 2.7672886848449707,
+          "passed": true,
+          "selected": false
+        },
+        {
+          "source_id": "faiss:3839",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting-2021-2022__sec_006__c006",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting 2021–2022",
+          "document_year": "2023",
+          "section_id": "sec_006",
+          "page_start": 23,
+          "page_end": 23,
+          "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/37ee0674d0e89152b2425e9f/laporan-indeks-khusus-penanganan-stunting-2021-2022.html",
+          "score": 2.6107280254364014,
+          "passed": true,
+          "selected": false
+        },
+        {
+          "source_id": "faiss:3979",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting-kabupaten-kota-2021-2022__sec_032__c004",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting Kabupaten/Kota 2021–2022",
+          "document_year": "2023",
+          "section_id": "sec_032",
+          "page_start": 50,
+          "page_end": 50,
+          "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/7d87599450712cf4bab879f2/laporan-indeks-khusus-penanganan-stunting-kabupaten-kota-2021-2022.html",
+          "score": 2.594611167907715,
+          "passed": true,
+          "selected": false
+        },
+        {
+          "source_id": "faiss:3837",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting-2021-2022__sec_006__c004",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting 2021–2022",
+          "document_year": "2023",
+          "section_id": "sec_006",
+          "page_start": 22,
+          "page_end": 22,
+          "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/37ee0674d0e89152b2425e9f/laporan-indeks-khusus-penanganan-stunting-2021-2022.html",
+          "score": 2.587949514389038,
+          "passed": true,
+          "selected": false
+        },
+        {
+          "source_id": "faiss:4016",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting-kabupaten-kota-2021-2022__sec_046__c002",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting Kabupaten/Kota 2021–2022",
+          "document_year": "2023",
+          "section_id": "sec_046",
+          "page_start": 70,
+          "page_end": 71,
+          "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/7d87599450712cf4bab879f2/laporan-indeks-khusus-penanganan-stunting-kabupaten-kota-2021-2022.html",
+          "score": 2.259206533432007,
+          "passed": true,
+          "selected": false
+        },
+        {
+          "source_id": "faiss:3755",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023__sec_023__c001",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting (IKPS) 2022–2023",
+          "document_year": "2024",
+          "section_id": "sec_023",
+          "page_start": 43,
+          "page_end": 43,
+          "bps_url": "https://www.bps.go.id/id/publication/2024/12/19/b87a8f73426081075be407fe/laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023.html",
+          "score": 2.061103343963623,
+          "passed": true,
+          "selected": false
+        },
+        {
+          "source_id": "faiss:3899",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting-2021-2022__sec_028__c006",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting 2021–2022",
+          "document_year": "2023",
+          "section_id": "sec_028",
+          "page_start": 56,
+          "page_end": 57,
+          "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/37ee0674d0e89152b2425e9f/laporan-indeks-khusus-penanganan-stunting-2021-2022.html",
+          "score": 1.8590220212936401,
+          "passed": true,
+          "selected": false
+        },
+        {
+          "source_id": "faiss:3874",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting-2021-2022__sec_020__c002",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting 2021–2022",
+          "document_year": "2023",
+          "section_id": "sec_020",
+          "page_start": 42,
+          "page_end": 43,
+          "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/37ee0674d0e89152b2425e9f/laporan-indeks-khusus-penanganan-stunting-2021-2022.html",
+          "score": 1.5569826364517212,
+          "passed": true,
+          "selected": false
+        },
+        {
+          "source_id": "faiss:3773",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023__sec_031__c004",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting (IKPS) 2022–2023",
+          "document_year": "2024",
+          "section_id": "sec_031",
+          "page_start": 53,
+          "page_end": 53,
+          "bps_url": "https://www.bps.go.id/id/publication/2024/12/19/b87a8f73426081075be407fe/laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023.html",
+          "score": 1.134421706199646,
+          "passed": true,
+          "selected": false
+        },
+        {
+          "source_id": "faiss:3761",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023__sec_029__c001",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting (IKPS) 2022–2023",
+          "document_year": "2024",
+          "section_id": "sec_029",
+          "page_start": 45,
+          "page_end": 47,
+          "bps_url": "https://www.bps.go.id/id/publication/2024/12/19/b87a8f73426081075be407fe/laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023.html",
+          "score": 0.9722243547439575,
+          "passed": true,
+          "selected": false
+        },
+        {
+          "source_id": "faiss:4022",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting-kabupaten-kota-2021-2022__sec_046__c008",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting Kabupaten/Kota 2021–2022",
+          "document_year": "2023",
+          "section_id": "sec_046",
+          "page_start": 75,
+          "page_end": 75,
+          "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/7d87599450712cf4bab879f2/laporan-indeks-khusus-penanganan-stunting-kabupaten-kota-2021-2022.html",
+          "score": 0.4482133090496063,
+          "passed": true,
+          "selected": false
+        },
+        {
+          "source_id": "faiss:3716",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023__sec_003__c003",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting (IKPS) 2022–2023",
+          "document_year": "2024",
+          "section_id": "sec_003",
+          "page_start": 15,
+          "page_end": 15,
+          "bps_url": "https://www.bps.go.id/id/publication/2024/12/19/b87a8f73426081075be407fe/laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023.html",
+          "score": 0.18818925321102142,
+          "passed": true,
+          "selected": false
+        },
+        {
+          "source_id": "faiss:3916",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting-2021-2022__sec_032__c009",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting 2021–2022",
+          "document_year": "2023",
+          "section_id": "sec_032",
+          "page_start": 67,
+          "page_end": 68,
+          "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/37ee0674d0e89152b2425e9f/laporan-indeks-khusus-penanganan-stunting-2021-2022.html",
+          "score": -0.0825762078166008,
+          "passed": true,
+          "selected": false
+        },
+        {
+          "source_id": "faiss:3870",
+          "chunk_id": "laporan-indeks-khusus-penanganan-stunting-2021-2022__sec_018__c002",
+          "document_title": "Laporan Indeks Khusus Penanganan Stunting 2021–2022",
+          "document_year": "2023",
+          "section_id": "sec_018",
+          "page_start": 39,
+          "page_end": 40,
+          "bps_url": "https://www.bps.go.id/id/publication/2023/12/19/37ee0674d0e89152b2425e9f/laporan-indeks-khusus-penanganan-stunting-2021-2022.html",
+          "score": -0.27038493752479553,
+          "passed": true,
+          "selected": false
+        }
+      ],
+      "rerank_threshold": -1.0,
+      "candidates_before_rerank": 20,
+      "expansion_raw": "IKPS adalah Indeks Khusus Penanganan Stunting yang digunakan untuk mengukur tingkat penanganan stunting di suatu wilayah.",
+      "expansion_note": null,
+      "selected_count": 5
+    },
+    "request_id": "bfe6d2e49c1d49159b8e73e9ab437133"
+  },
+  "error": null,
+  "scope": "production_stream"
+}

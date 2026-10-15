@@ -1,0 +1,52 @@
+2023: [
+        "Indeks Pembangunan Manusia 2022", https://www.bps.go.id/id/publication/2023/05/16/ef80bec78ab91cb5b703b943/indeks-pembangunan-manusia-2022.html
+        "Indeks Perilaku Anti Korupsi 2023", https://www.bps.go.id/id/publication/2023/12/20/0f9d5ec7203f63ff45c99a07/indeks-perilaku-anti-korupsi-2023.html
+        "Indikator Kesejahteraan Rakyat 2023", https://www.bps.go.id/id/publication/2023/11/06/7807339c2dfaed0ca8e0beaa/indikator-kesejahteraan-rakyat-2023.html
+        "Kesejahteraan Anak Indonesia: Analisis Deprivasi Hak Anak Multidimensi 2022", https://www.bps.go.id/id/publication/2023/12/22/117da7a9bc016a3e3b2475b1/kesejahteraan-anak-indonesia--analisis-deprivasi-hak-anak-multidimensi-2022.html
+        "Kesejahteraan Anak Indonesia: Analisis Kemiskinan Anak Moneter 2022", https://www.bps.go.id/id/publication/2023/12/22/ffcab19c6d3899bf71112a7f/kesejahteraan-anak-indonesia--analisis-kemiskinan-anak-moneter-2022.html
+        "Laporan Indeks Khusus Penanganan Stunting 2021–2022", https://www.bps.go.id/id/publication/2023/12/19/37ee0674d0e89152b2425e9f/laporan-indeks-khusus-penanganan-stunting-2021-2022.html
+        "Laporan Indeks Khusus Penanganan Stunting Kabupaten/Kota 2021–2022", https://www.bps.go.id/id/publication/2023/12/19/7d87599450712cf4bab879f2/laporan-indeks-khusus-penanganan-stunting-kabupaten-kota-2021-2022.html
+        "Profil Anak Usia Dini 2023", https://www.bps.go.id/id/publication/2023/12/12/e9b0a9a0adcffefb137e0d0d/profil-anak-usia-dini-2023.html
+        "Profil Statistik Kesehatan 2023", https://www.bps.go.id/id/publication/2023/12/20/feffe5519c812d560bb131ca/profil-statistik-kesehatan-2023.html
+        "Statistik Kesehatan 2022", https://www.bps.go.id/id/publication/2023/08/31/923a16f1d75232565f1e0446/statistik-kesehatan-2022.html
+        "Statistik Kesejahteraan Rakyat 2023", https://www.bps.go.id/id/publication/2023/10/27/bc5b86dd8f16cd0640aa278b/statistik-kesejahteraan-rakyat-2023.html
+        "Statistik Kriminal 2023", https://www.bps.go.id/id/publication/2023/12/12/5edba2b0fe5429a0f232c736/statistik-kriminal-2023.html
+        "Statistik Pemuda Indonesia 2023", https://www.bps.go.id/id/publication/2023/12/29/18781f394974f2cae5241318/statistik-pemuda-indonesia-2023.html
+        "Statistik Pendidikan 2023", https://www.bps.go.id/id/publication/2023/11/24/54557f7c1bd32f187f3cdab5/statistik-pendidikan-2023.html
+        "Statistik Penduduk Lanjut Usia 2023", https://www.bps.go.id/id/publication/2023/12/29/5d308763ac29278dd5860fad/statistik-penduduk-lanjut-usia-2023.html
+        "Statistik Politik 2023", https://www.bps.go.id/id/publication/2023/12/21/3e3e4a6e62d28b855b472330/statistik-politik-2023.html
+    ],
+
+
+    2024: [
+        "Indeks Pembangunan Manusia 2023", https://www.bps.go.id/id/publication/2024/05/13/8f77e73a66a6f484c655985a/indeks-pembangunan-manusia-2023.html
+        "Indeks Perilaku Anti Korupsi 2024", https://www.bps.go.id/id/publication/2024/12/06/66e636bc0a8fa4f90e0d6c6d/indeks-perilaku-anti-korupsi-2024.html
+        "Indikator Kesejahteraan Rakyat 2024", https://www.bps.go.id/id/publication/2024/11/06/3ef10d3d82ed93f616ba9113/indikator-kesejahteraan-rakyat-2024.html
+        "Indikator SDGs Kesejahteraan Rakyat 2024", https://www.bps.go.id/id/publication/2024/12/19/61d0e5d731bebf654f5cd6b3/indikator-sdgs-kesejahteraan-rakyat-2024.html
+        "Laporan Indeks Khusus Penanganan Stunting (IKPS) 2022–2023", https://www.bps.go.id/id/publication/2024/12/19/b87a8f73426081075be407fe/laporan-indeks-khusus-penanganan-stunting--ikps--2022-2023.html
+        "Profil Anak Usia Dini 2024", https://www.bps.go.id/id/publication/2024/12/13/744350b0873dcb98dfeab38c/profil-anak-usia-dini-2024.html
+        "Profil Kesehatan Ibu dan Anak 2024", https://www.bps.go.id/id/publication/2024/12/31/a919c55a72b74e33d011b0dc/profil-kesehatan-ibu-dan-anak-2024.html
+        "Statistik Kesejahteraan Rakyat 2024", https://www.bps.go.id/id/publication/2024/10/25/30e924add700e5a928c0b26b/statistik-kesejahteraan-rakyat-2024.html
+        "Statistik Kriminal 2024", https://www.bps.go.id/id/publication/2024/12/12/13317138a55b2f7096589536/statistik-kriminal-2024.html
+        "Statistik Pemuda Indonesia 2024", https://www.bps.go.id/id/publication/2024/12/31/b2dbaac4542352cea8794590/statistik-pemuda-indonesia-2024.html
+        "Statistik Pendidikan 2024", https://www.bps.go.id/id/publication/2024/11/22/c20eb87371b77ee79ea1fa86/statistik-pendidikan-2024.html
+        "Statistik Penduduk Lanjut Usia 2024", https://www.bps.go.id/id/publication/2024/12/31/a00d4477490caaf0716b711d/statistik-penduduk-lanjut-usia-2024.html
+        "Statistik Politik 2024", https://www.bps.go.id/id/publication/2024/12/16/f81b8e7187d78d5463726e27/statistik-politik-2024.html
+    ],
+    2025: [
+        "Analisis Petty Corruption Hasil SPAK 2020–2024", https://www.bps.go.id/id/publication/2025/12/30/8c5e3ae250cde06689b0e911/analisis-petty-corruption-hasil-spak-2020-2024.html
+        "Indeks Pembangunan Manusia 2024", https://www.bps.go.id/id/publication/2025/05/15/dd9a3ce7dfae1c733e46338f/indeks-pembangunan-manusia-2024.html
+        "Indikator Kesejahteraan Rakyat 2025", https://www.bps.go.id/id/publication/2025/12/30/bcc229ac31403d023f2d26a3/indikator-kesejahteraan-rakyat-2025.html
+        "Indikator SDGs Kesejahteraan Rakyat 2025", http://bps.go.id/id/publication/2025/12/24/b112375b8d2c58c37a7127f4/indikator-sdgs-kesejahteraan-rakyat-2025.html
+        "Infografis Statistik Kesejahteraan Rakyat 2025", https://www.bps.go.id/id/publication/2025/12/15/455ec263473179cad2856649/infografis-statistik-kesejahteraan-rakyat-2025.html
+        "Profil Anak Usia Dini 2025", https://www.bps.go.id/id/publication/2025/12/05/0aa15c4692d4dbc27049aa33/profil-anak-usia-dini-2025.html
+        "Profil Statistik Kesehatan 2025", https://www.bps.go.id/id/publication/2025/12/12/7d17daec8d62c852fc354945/profil-statistik-kesehatan-2025.html
+        "Statistik Kesejahteraan Rakyat 2025", https://www.bps.go.id/id/publication/2025/10/10/b37dd4fb6b1727f8cf3c0271/statistik-kesejahteraan-rakyat-2025.html
+        "Statistik Kriminal 2024/2025", https://www.bps.go.id/id/publication/2025/12/12/2edc8ea4c35b19ba912fc7e4/statistik-kriminal-2024-2025.html
+        "Statistik Pemuda Indonesia 2025", https://www.bps.go.id/id/publication/2025/12/12/1a88777089ce471db17bb1fb/statistik-pemuda-indonesia-2025.html
+        "Statistik Pendidikan 2025", https://www.bps.go.id/id/publication/2025/11/21/d048070f37740b0e04d99350/statistik-pendidikan-2025.html
+        "Statistik Penduduk Lanjut Usia 2025", https://www.bps.go.id/id/publication/2025/12/12/868d335b088dcddc3ddee052/statistik-penduduk-lanjut-usia-2025.html
+        "Statistik Penunjang Pendidikan 2024", https://www.bps.go.id/id/publication/2025/05/28/1d3b07ea55c4e8d8ce5d5859/statistik-penunjang-pendidikan-2024.html
+        "Statistik Politik 2025", https://www.bps.go.id/id/publication/2025/12/22/8bc8ad59afe1985f822fce41/statistik-politik-2025.html
+        "Statistik Sosial Budaya 2024", https://www.bps.go.id/id/publication/2025/05/28/1b5cdf50f49c754c3b581bd2/statistik-sosial-budaya-2024.html
+    ]

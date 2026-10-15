@@ -1,0 +1,53 @@
+{
+  "timestamp": "2026-09-04T23:43:16+00:00",
+  "total_records": 9350,
+  "n_sections": 628,
+  "split_counts": {
+    "train": 6516,
+    "val": 1043,
+    "test": 1791
+  },
+  "split_fractions": {
+    "train": 0.7,
+    "val": 0.1,
+    "test": 0.2
+  },
+  "subtask_distribution_by_split": {
+    "train": {
+      "factual_retrieval": 891,
+      "source_navigation": 866,
+      "methodology_explanation": 900,
+      "definition_clarification": 916,
+      "trend_interpretation": 651,
+      "causal_reasoning": 668,
+      "comparative_analysis": 662,
+      "multi_source_synthesis": 599,
+      "document_overview": 363
+    },
+    "val": {
+      "factual_retrieval": 138,
+      "source_navigation": 133,
+      "methodology_explanation": 148,
+      "causal_reasoning": 104,
+      "trend_interpretation": 103,
+      "comparative_analysis": 112,
+      "multi_source_synthesis": 100,
+      "definition_clarification": 146,
+      "document_overview": 59
+    },
+    "test": {
+      "factual_retrieval": 241,
+      "definition_clarification": 282,
+      "methodology_explanation": 248,
+      "causal_reasoning": 162,
+      "trend_interpretation": 166,
+      "multi_source_synthesis": 151,
+      "comparative_analysis": 168,
+      "document_overview": 93,
+      "source_navigation": 280
+    }
+  },
+  "split_method": "section-level random split (section_key = document_title || section_id), seed tetap untuk reproduktibilitas",
+  "note": "Dataset ini terdiri sepenuhnya dari record grounded pada oracle context (tanpa distractor/out-of-context). Penyertaan distractor documents ala RAFT (Zhang et al., 2024) tidak diimplementasikan pada penelitian ini karena kompleksitas dan keterbatasan waktu; hal ini dibahas sebagai saran pengembangan lanjutan.",
+  "seed": 42
+}

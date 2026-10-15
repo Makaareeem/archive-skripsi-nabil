@@ -1,0 +1,12 @@
+{
+  "name": "qa-bps-demo",
+  "main": "worker.mjs",
+  "compatibility_date": "2026-10-01",
+  "workers_dev": true,
+  "assets": {"directory": "./public", "binding": "ASSETS", "run_worker_first": true},
+  "vars": {"RUNPOD_ORIGIN": "https://xow7btuxbeg0hd.api.runpod.ai"},
+  "ratelimits": [
+    {"name": "ASK_RATE_LIMIT", "namespace_id": "9176401", "simple": {"limit": 5, "period": 60}},
+    {"name": "WAKE_RATE_LIMIT", "namespace_id": "9176402", "simple": {"limit": 30, "period": 60}}
+  ]
+}

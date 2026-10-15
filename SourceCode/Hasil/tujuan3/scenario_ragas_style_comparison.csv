@@ -1,0 +1,13 @@
+scenario_id,model_key,variant,style,question,style_group_id,faithfulness,answer_relevancy,context_relevance,delta_faithfulness_vs_formal,delta_answer_relevancy_vs_formal,delta_context_relevance_vs_formal
+Q009,llama3.2-finetuned,formal,formal,Bagaimana tren Indeks Pembangunan Manusia (IPM) Indonesia dari edisi ke edisi?,STYLE-IPM-TREND,1.0,0.672754560562654,1.0,0.0,0.0,0.0
+Q009,gemma2-finetuned,formal,formal,Bagaimana tren Indeks Pembangunan Manusia (IPM) Indonesia dari edisi ke edisi?,STYLE-IPM-TREND,1.0,0.6239189688993397,1.0,0.0,0.0,0.0
+Q009,deepseek-flash,formal,formal,Bagaimana tren Indeks Pembangunan Manusia (IPM) Indonesia dari edisi ke edisi?,STYLE-IPM-TREND,,,,,,
+Q010,llama3.2-finetuned,informal,informal,ipm indo makin ke sini makin naik atau turun sih?,STYLE-IPM-TREND,0.5,0.521227838759987,1.0,-0.5,-0.15152672180266702,0.0
+Q010,gemma2-finetuned,informal,informal,ipm indo makin ke sini makin naik atau turun sih?,STYLE-IPM-TREND,1.0,0.5850532262809259,1.0,0.0,-0.0388657426184138,0.0
+Q010,deepseek-flash,informal,informal,ipm indo makin ke sini makin naik atau turun sih?,STYLE-IPM-TREND,0.7142857142857143,0.47711106411955884,1.0,,,
+Q011,llama3.2-finetuned,langsung_ringkas,langsung_ringkas,Apa tren utama IPM Indonesia dalam beberapa edisi terakhir?,STYLE-IPM-TREND,0.3333333333333333,0.7986354294705246,1.0,-0.6666666666666667,0.12588086890787054,0.0
+Q011,gemma2-finetuned,langsung_ringkas,langsung_ringkas,Apa tren utama IPM Indonesia dalam beberapa edisi terakhir?,STYLE-IPM-TREND,0.875,0.5628494180081679,1.0,-0.125,-0.06106955089117183,0.0
+Q011,deepseek-flash,langsung_ringkas,langsung_ringkas,Apa tren utama IPM Indonesia dalam beberapa edisi terakhir?,STYLE-IPM-TREND,,,,,,
+Q012,llama3.2-finetuned,akademik,akademik,"Berdasarkan publikasi BPS antaredisi, bagaimana perkembangan IPM Indonesia dan apa kecenderungan umumnya?",STYLE-IPM-TREND,1.0,0.5550150644348334,1.0,0.0,-0.11773949612782064,0.0
+Q012,gemma2-finetuned,akademik,akademik,"Berdasarkan publikasi BPS antaredisi, bagaimana perkembangan IPM Indonesia dan apa kecenderungan umumnya?",STYLE-IPM-TREND,1.0,0.6554879407930158,1.0,0.0,0.03156897189367602,0.0
+Q012,deepseek-flash,akademik,akademik,"Berdasarkan publikasi BPS antaredisi, bagaimana perkembangan IPM Indonesia dan apa kecenderungan umumnya?",STYLE-IPM-TREND,,,,,,

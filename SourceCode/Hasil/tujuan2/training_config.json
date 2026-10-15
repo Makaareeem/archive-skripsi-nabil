@@ -1,0 +1,23 @@
+{
+  "llama3.2": {
+    "max_seq_length": 1536,
+    "instruction_part": "<|start_header_id|>user<|end_header_id|>\n\n",
+    "response_part": "<|start_header_id|>assistant<|end_header_id|>\n\n",
+    "vram_estimate_gb": {
+      "1": 7.692353536,
+      "2": 11.97473792,
+      "4": null
+    }
+  },
+  "gemma2": {
+    "max_seq_length": 1024,
+    "instruction_part": "<start_of_turn>user\n",
+    "response_part": "<start_of_turn>model\n",
+    "vram_estimate_gb": {
+      "1": 4.651483136,
+      "2": 7.86432,
+      "4": 14.308868096,
+      "8": null
+    }
+  }
+}

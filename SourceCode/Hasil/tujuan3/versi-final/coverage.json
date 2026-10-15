@@ -1,0 +1,10 @@
+{
+  "expected_rows": 24,
+  "recorded_unique_rows": 24,
+  "missing": [],
+  "unexpected": [],
+  "duplicate_rows": 0,
+  "ok_rows": 24,
+  "failed_or_interrupted_rows": 0,
+  "all_requests_recorded": true
+}

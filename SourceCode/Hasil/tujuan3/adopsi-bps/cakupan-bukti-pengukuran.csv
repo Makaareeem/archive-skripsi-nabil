@@ -1,0 +1,9 @@
+﻿component,evidence,status,limit
+CPU QA,CPU user+system pohon proses per permintaan,TERUKUR,core-equivalent CPU acuan; bukan jumlah core CPU lain
+RAM QA,RSS PID unik backend+Ollama,TERUKUR_FOOTPRINT,shared pages dapat dihitung lebih dari sekali; bukan minimum RAM fisik
+VRAM QA,NVML per PID dan per perangkat,BELUM_TERSEDIA,WDDM dapat tidak mendukung; tidak memakai total VRAM laptop
+Concurrency,capacity_profile.csv,PROFIL_TERSEDIA_PERIKSA_ISOLASI_CACHE,empat pertanyaan berulang; perlu trafik representatif dan uji panjang
+Environment,metadata sesi + deklarasi requirements,TERCATAT_SEBAGIAN,versi kernel notebook bukan bukti versi backend; migrasi masih perlu uji integrasi
+Storage,inventaris artefak sistem,INVENTARIS_BELUM_LENGKAP,bukan kapasitas disk laptop; retensi log dan ruang ekspor perlu pengukuran
+Token ekspansi,belum diekspor API,BELUM_DIUKUR,jumlah token jawaban bukan total token seluruh pipeline
+Training penuh,ringkasan trainer + NB08 dry-run,RUNTIME_ADA_MEMORI_BELUM_LENGKAP,"optimizer, evaluasi, checkpoint dan ekspor belum diprofilkan penuh"

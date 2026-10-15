@@ -1,0 +1,9 @@
+snapshot/
+gateway/public/
+gateway/public-manifest.json
+gateway/node_modules/
+gateway/.wrangler/
+gateway/.dev.vars
+gateway/.env*
+__pycache__/
+*.pyc

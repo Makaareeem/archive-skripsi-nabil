@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "models": {
+    "llama3.2-base": {
+      "repo_id": "Makaareeem/llama3.2-base-gguf",
+      "filename": "Llama-3.2-3B-Instruct.Q4_K_M.gguf",
+      "revision": "80a406fb27d583fca0fad4c906a54ee560cd53e3",
+      "sha256": "3f4d06c041e1d93069fa8c8c5b7b63b110b40429d31f6ac62efedcf6ac8892ac",
+      "bytes": 2019377408
+    },
+    "llama3.2-finetuned": {
+      "repo_id": "Makaareeem/llama3.2-finetuned-gguf",
+      "filename": "Llama-3.2-3B-Instruct.Q4_K_M.gguf",
+      "revision": "30d429479d1ac801e821ff5180939f394bf65b09",
+      "sha256": "78eef650e038c3b78390c086aa9ea07ae947c64f6118c6a77f65ad842dbf8a10",
+      "bytes": 2019377408
+    },
+    "gemma2-base": {
+      "repo_id": "Makaareeem/gemma2-base-gguf",
+      "filename": "gemma-2-2b-it.Q4_K_M.gguf",
+      "revision": "65adca6074b67d36b7b8a5c0c174c07043ed235e",
+      "sha256": "603f6118b2b4771e83ee1fac513fc8dce4c7f60a63131cd71be14e3dc7758cd2",
+      "bytes": 1708582528
+    },
+    "gemma2-finetuned": {
+      "repo_id": "Makaareeem/gemma2-finetuned-gguf",
+      "filename": "gemma-2-2b-it.Q4_K_M.gguf",
+      "revision": "1f1605ac28793bf87a7994399ff2a4a44e8bca4e",
+      "sha256": "b7393c9ae639ad95c198645c385b390b4a7565d0342557a5a58817e73e88d8c7",
+      "bytes": 1708582528
+    }
+  },
+  "knowledge_base": {
+    "repo_id": "Makaareeem/publikasi-rag-knowledge-base",
+    "revision": "4b1f976ab0686415c7d5fcd24021fa8bebf8d566",
+    "files": [
+      {
+        "filename": "faiss_index.bin",
+        "sha256": "e10220336e5377254bea3dda772b59e1f783c3b8421f4574ab44542b4c426646",
+        "bytes": 69436461
+      },
+      {
+        "filename": "chunk_metadata.jsonl",
+        "sha256": "ab55c389695ba5eba3e934a9eb44a6f26fbba12ee953d680e33c979bc3f8c281",
+        "bytes": 45697220
+      }
+    ]
+  },
+  "embedding": {
+    "repo_id": "nomic-ai/nomic-embed-text-v1.5",
+    "revision": "e9b6763023c676ca8431644204f50c2b100d9aab"
+  },
+  "reranker": {
+    "repo_id": "madebyaris/rerank-indonesia",
+    "revision": "4ac48b5f862022b50c8b85586699a3213490fc10"
+  }
+}

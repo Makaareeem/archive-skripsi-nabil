@@ -1,0 +1,31 @@
+{
+  "cpu": {
+    "name": "11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz",
+    "physical_cores": 4,
+    "logical_cores": 8,
+    "max_frequency_mhz": 3110.0,
+    "utilization_at_inventory_percent": 18.9
+  },
+  "ram": {
+    "total_bytes": 16952647680,
+    "total_gb": 15.79,
+    "used_at_inventory_gb": 15.14,
+    "available_at_inventory_gb": 0.65,
+    "used_at_inventory_percent": 95.9
+  },
+  "gpus": [
+    {
+      "index": 0,
+      "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+      "vram_total_gb": 4.0,
+      "vram_used_at_inventory_mb": 2365.0,
+      "utilization_at_inventory_percent": 0.0,
+      "driver_version": "566.14",
+      "measurement_available": false,
+      "note": "Terdeteksi via nvidia-smi; instal nvidia-ml-py untuk sampling 50 ms."
+    }
+  ],
+  "operating_system": "Windows-10-10.0.26200-SP0",
+  "python_version": "3.11.16",
+  "hardware_notes": ""
+}

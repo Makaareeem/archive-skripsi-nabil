@@ -1,0 +1,22 @@
+{
+  "n_questions_total_population": 9350,
+  "distinct_1": 0.0515,
+  "distinct_2": 0.2752,
+  "self_bleu": 0.6192,
+  "mean_pairwise_cosine": 0.282,
+  "stratum_counts": {
+    "factual_retrieval": 1270,
+    "source_navigation": 1279,
+    "methodology_explanation": 1296,
+    "definition_clarification": 1344,
+    "trend_interpretation": 920,
+    "causal_reasoning": 934,
+    "comparative_analysis": 942,
+    "multi_source_synthesis": 850,
+    "document_overview": 515
+  },
+  "stratum_normalized_entropy": 0.9845,
+  "stratum_gini": 0.1357,
+  "top5_opener_share": 0.1971,
+  "interpretation": "Seluruh metrik dihitung dari POPULASI PENUH (N=9350), tanpa sampling. distinct_n, normalized_entropy: makin tinggi makin beragam/merata. self_bleu, mean_pairwise_cosine, gini: makin RENDAH makin beragam/merata."
+}

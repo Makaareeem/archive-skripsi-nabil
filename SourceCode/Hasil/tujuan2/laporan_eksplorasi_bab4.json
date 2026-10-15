@@ -1,0 +1,194 @@
+{
+  "taksonomi": {
+    "task_type": {
+      "qa": 11498,
+      "summary": 763
+    },
+    "subtask_type": {
+      "factual_retrieval": 1778,
+      "source_navigation": 1357,
+      "methodology_explanation": 1444,
+      "definition_clarification": 1492,
+      "trend_interpretation": 1329,
+      "causal_reasoning": 1337,
+      "comparative_analysis": 1453,
+      "multi_source_synthesis": 1308,
+      "document_overview": 763
+    },
+    "reasoning_source": {
+      "single_paragraph": 8887,
+      "multi_paragraph": 1974,
+      "whole_section": 1387,
+      "": 13
+    },
+    "generation_focus": {
+      "literal_reading": 3128,
+      "concept_understanding": 2936,
+      "evidence_integration": 2673,
+      "analytical_reasoning": 2761,
+      "summary": 763
+    },
+    "parse_status": {
+      "direct": 9686,
+      "fence_stripped": 2562,
+      "extracted_object_wrapped": 11,
+      "extracted": 2
+    }
+  },
+  "cakupan_korpus": {
+    "n_dokumen_unik": 29,
+    "n_section_unik": 634,
+    "record_per_dokumen_min": 51,
+    "record_per_dokumen_median": 313,
+    "record_per_dokumen_max": 1171,
+    "top5_terbanyak": [
+      [
+        "Statistik Kesejahteraan Rakyat 2023",
+        1171
+      ],
+      [
+        "Profil Kesehatan Ibu dan Anak 2024",
+        1092
+      ],
+      [
+        "Statistik Kesejahteraan Rakyat 2024",
+        851
+      ],
+      [
+        "Statistik Indonesia 2025",
+        757
+      ],
+      [
+        "Statistik Indonesia 2023",
+        718
+      ]
+    ],
+    "top5_tersedikit": [
+      [
+        "Infografis Statistik Kesejahteraan Rakyat 2025",
+        51
+      ],
+      [
+        "Indikator SDGs Kesejahteraan Rakyat 2025",
+        164
+      ],
+      [
+        "Profil Statistik Kesehatan 2025",
+        197
+      ],
+      [
+        "Laporan Indeks Khusus Penanganan Stunting (IKPS) 2022–2023",
+        198
+      ],
+      [
+        "Indeks Pembangunan Manusia 2022",
+        206
+      ]
+    ]
+  },
+  "statistik_panjang": {
+    "instruction": {
+      "min": 4,
+      "max": 67,
+      "mean": 18.82,
+      "median": 18
+    },
+    "response": {
+      "min": 4,
+      "max": 277,
+      "mean": 34.79,
+      "median": 30
+    },
+    "cot": {
+      "min": 10,
+      "max": 173,
+      "mean": 38.26,
+      "median": 35
+    },
+    "span_count_distribution": {
+      "1": 8268,
+      "2": 3030,
+      "3": 963
+    },
+    "n_instruction_sangat_pendek": 1,
+    "n_response_sangat_pendek": 8,
+    "n_cot_sangat_pendek": 0
+  },
+  "meta_reference_leakage": {
+    "n_total": 183,
+    "pct_total": 1.49,
+    "per_pattern": {
+      "sebut_di_atas": 146,
+      "sebut_konteks_ini": 13,
+      "sebut_bagian_ini": 14,
+      "awalan_konteks": 7,
+      "awalan_dokumen_ini": 4
+    }
+  },
+  "residu_tabel": {
+    "n_terindikasi": 1915,
+    "pct_terindikasi": 15.62
+  },
+  "kesesuaian_numerik": {
+    "n_tidak_cocok": 3015,
+    "pct_tidak_cocok": 24.59
+  },
+  "verifikasi_cot": {
+    "n_tanpa_kutip_literal": 7747,
+    "n_terverifikasi": 4092,
+    "n_gagal_verifikasi": 422,
+    "pct_gagal_dari_yang_berkutip": 9.35
+  },
+  "konsistensi_terminologi": {
+    "cakupan_kamus_istilah": 9,
+    "kemunculan_per_istilah": {
+      "TPT": 39,
+      "IPM": 257,
+      "PDRB": 38,
+      "Susenas": 764,
+      "garis kemiskinan": 81,
+      "TPAK": 18,
+      "AHH": 16,
+      "HLS": 64,
+      "RLS": 125
+    },
+    "n_mismatch": 331,
+    "pct_mismatch": 2.7
+  },
+  "thinking_artifacts": {
+    "n_total": 0,
+    "pct_total": 0.0,
+    "per_pattern": {}
+  },
+  "duplikasi_exact": {
+    "n_cluster": 49,
+    "n_records_involved": 106
+  },
+  "instruction_response_similarity": {
+    "n_high_sim": 326,
+    "pct_high_sim": 2.66
+  },
+  "validasi_skema": {
+    "n_invalid_task": 0,
+    "n_invalid_subtask": 0,
+    "n_missing_fields": 0
+  },
+  "ringkasan_final": {
+    "total_records": 12261,
+    "estimasi_hard_gate": {
+      "schema_invalid": 0,
+      "missing_fields": 0,
+      "response_terlalu_pendek": 8,
+      "cot_terlalu_pendek": 0,
+      "residu_tabel": 1915,
+      "thinking_artifacts": 0
+    },
+    "estimasi_soft_flag": {
+      "angka_tidak_cocok": 3015,
+      "cot_gagal_verifikasi": 422,
+      "terminology_mismatch": 331,
+      "high_similarity": 326
+    },
+    "estimasi_duplikat_exact": 106
+  }
+}

@@ -1,0 +1,343 @@
+{
+  "created_at_utc": "2026-10-12T13:20:40.026399+00:00",
+  "method": "process profiling and measurement-based capacity planning",
+  "assumptions": {
+    "model": "llama3.2-finetuned",
+    "benchmark_csv": "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\SourceCode\\SkripsiNabil\\Hasil\\tujuan3\\versi-final\\20261012-200440-99c5f27b\\system_performance_all.csv",
+    "capacity_csv": "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\SourceCode\\SkripsiNabil\\Hasil\\tujuan3\\versi-final\\20261012-200440-99c5f27b\\capacity_profile.csv",
+    "cache_filter": "miss_both",
+    "scenarios": [
+      {
+        "scenario": "kecil",
+        "requests_per_day": 100,
+        "active_hours": 8,
+        "peak_factor": 3.0,
+        "target_p95_s": 90,
+        "target_client_concurrency": 1
+      },
+      {
+        "scenario": "menengah",
+        "requests_per_day": 1000,
+        "active_hours": 8,
+        "peak_factor": 3.0,
+        "target_p95_s": 90,
+        "target_client_concurrency": 2
+      },
+      {
+        "scenario": "besar",
+        "requests_per_day": 10000,
+        "active_hours": 8,
+        "peak_factor": 3.0,
+        "target_p95_s": 90,
+        "target_client_concurrency": 4
+      }
+    ],
+    "utilization_target": 0.65,
+    "days_per_month": 30,
+    "memory_margin": 0.0,
+    "storage_margin": 0.0,
+    "storage_versions": 1,
+    "kb_growth_factor": 1.0,
+    "linear_memory_extrapolation_enabled": false,
+    "expansion_input_tokens": null,
+    "expansion_output_tokens": null,
+    "expansion_cache_hit_ratio": 0.0,
+    "target_train_examples": 10000,
+    "target_epochs": 3,
+    "runs_per_model": 3,
+    "same_training_setup": true,
+    "allocated_gpus_per_run": null,
+    "extra_pipeline_hours_per_run": null,
+    "dataset_scenario": {
+      "accepted_qa_target": 10000,
+      "qa_per_call": 5,
+      "acceptance_rate": 0.8,
+      "extra_call_fraction": 0.1,
+      "prompt_tokens_per_call": null,
+      "output_tokens_per_call": null,
+      "call_duration_s": null,
+      "parallel_calls": 1,
+      "review_sample_fraction": 0.1,
+      "review_minutes_per_qa": 2.0
+    }
+  },
+  "operational_profile": {
+    "basis": "PENGUKURAN_BENCHMARK",
+    "cache_filter": "miss_both",
+    "model_rows": 12,
+    "selected_rows": 3,
+    "failed_rows": 0,
+    "answer_status_counts": {
+      "needs_review": 3
+    },
+    "processing_mean_s": 24.288666666666668,
+    "client_p95_s": 31.202073280002512,
+    "retrieval_mean_s": 6.529333333333334,
+    "generation_mean_s": 17.757666666666665,
+    "process_ram_peak_mib": 3529.91015625,
+    "request_body_bytes_mean": 187.33333333333334,
+    "response_body_bytes_mean": 18841.666666666668,
+    "cpu_measured_rows": 3,
+    "qa_cpu_core_seconds_mean": 65.53125,
+    "qa_gpu_peak_per_device_mib": null,
+    "token_reported_rows": 2,
+    "answer_input_tokens": 2190.0,
+    "answer_input_tokens_n": 2,
+    "answer_output_tokens": 153.5,
+    "answer_output_tokens_n": 2,
+    "legacy_host_cpu_gpu_ignored": false
+  },
+  "reference_environment": {
+    "run_id": "20261012-200440-99c5f27b",
+    "created_at": "2026-10-12T20:04:44.791958+07:00",
+    "system_variant": "rag_excerpt_only_sentence_completion",
+    "endpoint": "/api/ask",
+    "backend_url": "http://127.0.0.1:8000",
+    "ollama_url": "http://localhost:11434",
+    "api_version": "0.2.0",
+    "local_source_sha256": {
+      "app\\__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "app\\answer_stream.py": "a82fd311bd7f41ab821112cdc152bac39cafb6957f4d13c57e8c6d28f5190681",
+      "app\\cache.py": "86e663204fee60ea699607fb2fef9431b38e22a03dcd9047b0ef6003b8837a28",
+      "app\\config.py": "74dad238bd045ec3d709b4e9bc021693064ed3d63e26d5420b1d841aab6d61d9",
+      "app\\device_policy.py": "f3bd747a50c07a8f75bf91874e587d4474441e71284f9b77682006ef36b9e379",
+      "app\\evidence.py": "ca390e1ec25a6b14aa85140e909b7106eaed1b0a93698a5696e740fa954abdc9",
+      "app\\generation_service.py": "9d41390ebb3c846c2eb7afe7f440321cc9d167eed4c4c88010fd7a19805e9c50",
+      "app\\inference_errors.py": "caf9ca4c3515153bf179f87d0e8db60064b6573f7ab581527bd1f50719c5db7a",
+      "app\\main.py": "a9993e6cd16314f72ae1eaf5c69662dca2457081c2686422cfad1b7572cc5030",
+      "app\\pipeline.py": "79685894e3cbd75193955eead80fcb74ceb8fe6441e1a416f9ec9bf1916862e7",
+      "app\\prompt_constructor.py": "0c2e2a2f405155b45100be51d93cddd45028ac8801c74f43ef8e0c77dd49405a",
+      "app\\query_expansion_service.py": "272aacf099751258814007bb58443c38a948424c89f65d341dc02b840fcad3fb",
+      "app\\question_validation.py": "c197ab22f8b4ade3f3a5a1807eefdc3061a9f04ada248b03ab4c57ee23db8821",
+      "app\\reranker_service.py": "96d507a458687080240cac9dac774fb44f0f8f2bae9314ac10697b805debfc52",
+      "app\\retrieval_service.py": "73f00d9ccf86886b67aa4d3f724788cde51740f4c4a30cff2c71e483513390c4",
+      "app\\schemas.py": "0278acd2f79481b21a03f9939e2621d861a8bda50f9c5275c2df63de355f644d",
+      "web\\question-rules.json": "a3af225b16a324f0d664d9626c545f94dbfcae591dfdc18ff534ef17ad2e50a7"
+    },
+    "source_hash_note": "Hash kode lokal; proses backend perlu direstart agar sesuai. Versi API saja tidak membuktikan versi kode.",
+    "local_env_settings_not_verified_runtime": {
+      "QUEUE_CONCURRENCY": "2"
+    },
+    "backend_configuration_notes": "",
+    "model_inventory_before": [
+      {
+        "name": "gemma2-finetuned:latest",
+        "digest": "bd61ea3941eaabbae8093347e907b23b3e0c51d49fcf7a33bf05fbecb42a36b1",
+        "size": 1708583244,
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "gemma2",
+          "families": [
+            "gemma2"
+          ],
+          "parameter_size": "2.6B",
+          "quantization_level": "Q4_K_M",
+          "context_length": 8192,
+          "embedding_length": 2304,
+          "runner": "ggml"
+        }
+      },
+      {
+        "name": "llama3.2-finetuned:latest",
+        "digest": "712fda94d8446df450435b2e2254f8c8c027edc81892adde14f24661c83380b0",
+        "size": 2019377778,
+        "details": {
+          "parent_model": "",
+          "format": "gguf",
+          "family": "llama",
+          "families": [
+            "llama"
+          ],
+          "parameter_size": "3.2B",
+          "quantization_level": "Q4_K_M",
+          "context_length": 131072,
+          "embedding_length": 3072,
+          "runner": "ggml"
+        }
+      }
+    ],
+    "model_keys": [
+      "llama3.2-finetuned",
+      "gemma2-finetuned"
+    ],
+    "test_questions": [
+      "Berapa persentase penduduk lanjut usia di Indonesia menurut publikasi Statistik Penduduk Lanjut Usia edisi terbaru?",
+      "Apa yang dimaksud dengan Indeks Khusus Penanganan Stunting (IKPS) menurut publikasi BPS?",
+      "Bagaimana tren Indeks Pembangunan Manusia (IPM) Indonesia dari edisi ke edisi?",
+      "Berapa Indeks Perilaku Anti Korupsi (IPAK) nasional pada edisi terakhir?"
+    ],
+    "response_style": "detail",
+    "top_k": 5,
+    "repeat_per_question": 3,
+    "warmup_per_model": 1,
+    "request_order": "model -> repeat -> question; sequential",
+    "cache_policy": "Production cache unchanged; warmup and every measured request may populate cache. No cold-start claim.",
+    "sample_interval_s": 0.05,
+    "memory_unit": "MiB",
+    "resource_measurement_enabled": true,
+    "package_versions": {
+      "requests": "2.34.2",
+      "pandas": "3.0.6",
+      "numpy": "2.4.6",
+      "psutil": "7.2.2"
+    },
+    "metric_definitions": {
+      "retrieval_s": "backend expansion_s + search_rerank_s (includes context fitting/metadata work timed in that stage)",
+      "generation_s": "backend answer stream until model stop or application stop; not decode-only",
+      "citation_s": "Must be zero: source summaries removed; numeric references still exist in main answer",
+      "backend_total_s": "backend queue + processing",
+      "client_total_s": "wall time for POST and complete JSON response; excludes resource sampler setup/teardown and file saving",
+      "first_token_s": "backend time to first raw draft token, including queue; not browser/client TTFT",
+      "process_rss_mb": "sum RSS unique backend/Ollama PIDs; conservative resident footprint, shared pages can be counted more than once",
+      "status_ok": "HTTP/response contract success, NOT answer correctness",
+      "qa_cpu_core_seconds": "sum of user+system CPU time deltas for unique QA PIDs; sample window includes small client/sampler overhead",
+      "qa_cpu_mean_cores": "QA core-seconds / sampled wall seconds; 1 means one logical CPU continuously occupied, not 1% of laptop",
+      "peak_qa_gpu_single_device_mb": "maximum per-device VRAM attributed to QA PIDs, no device-wide fallback"
+    },
+    "hardware_notes": "",
+    "resource_schema": "qa_process_v2",
+    "isolated_run_confirmed": true,
+    "hardware_inventory": {
+      "purpose": "identitas alat ukur; BUKAN rekomendasi kapasitas server",
+      "os": "Windows-10-10.0.26300-SP0",
+      "python": "3.11.16",
+      "cpu": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+      "physical_cores": 4,
+      "logical_cores": 8,
+      "total_ram_mib": 16167.3046875,
+      "nvidia_gpus_sampled": [
+        {
+          "index": 0,
+          "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+          "total_vram_mib": 4096.0
+        }
+      ]
+    },
+    "resource_process_roots": {
+      "backend": [
+        2828,
+        1791810041.25376
+      ],
+      "ollama": [
+        17640,
+        1791747793.562884
+      ]
+    },
+    "resource_notes": [
+      "Do not run other clients against the same backend/Ollama during a measurement.",
+      "Short-lived processes and peaks between samples may be missed.",
+      "GPU PID memory may be unavailable on Windows WDDM; missing is not zero.",
+      "Notebook/client CPU and host-wide CPU/RAM/GPU usage are excluded from resource estimates."
+    ]
+  },
+  "environment_declarations_not_runtime_verification": {
+    "requirements.txt": {
+      "sha256": "5501ddf6f7a98f9222c8409408d785f629cd6892ae28deff47fa8ef741a5eec9",
+      "declared_dependencies": [
+        "fastapi==0.141.1",
+        "uvicorn[standard]==0.52.4",
+        "python-dotenv==1.2.3",
+        "langchain-core==1.6.3",
+        "langchain-community==0.4.2",
+        "sentence-transformers==3.4.1",
+        "einops==0.8.2",
+        "transformers==4.46.3",
+        "faiss-cpu==1.15.0",
+        "huggingface_hub==0.36.2",
+        "requests==2.34.2",
+        "rank_bm25==0.2.2"
+      ],
+      "running_backend_verified": false
+    },
+    "requirements-notebook.txt": {
+      "sha256": "695ce6fdc677990f9dd4558b5b07e5930023d70f00b03447552fa4dbbca4e71a",
+      "declared_dependencies": [
+        "# Klien notebook saja; dependensi server tetap di requirements.txt.",
+        "numpy",
+        "pandas",
+        "requests",
+        "psutil",
+        "ipykernel",
+        "# Opsional untuk sampling GPU NVIDIA: pip install nvidia-ml-py"
+      ],
+      "running_backend_verified": false
+    }
+  },
+  "source_sha256": {
+    "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\SourceCode\\SkripsiNabil\\Hasil\\tujuan3\\versi-final\\20261012-200440-99c5f27b\\system_performance_all.csv": "42b449a72160dd8b892fd6732f9c2e90efc66ce09d4e37caf47df92c53fcb45c",
+    "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\SourceCode\\SkripsiNabil\\Hasil\\tujuan3\\versi-final\\20261012-200440-99c5f27b\\system_performance_environment.json": "19afd33a8530d30c7ee27b2151159e3ed532b3f5566ea46f0ac21817dda230e3",
+    "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\SourceCode\\SkripsiNabil\\Hasil\\tujuan3\\versi-final\\20261012-200440-99c5f27b\\capacity_profile.csv": "c20e74164e46ac6fa685b9b2ede7e5905080830d5e0f7c9a91b36f5886e6ab04",
+    "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\SourceCode\\SkripsiNabil\\Hasil\\tujuan2\\training_config.json": "25c1f00fc64abbc4e427fbea6321f1c42c76c4376b1fe314d44bdb866b7fa724",
+    "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\SourceCode\\SkripsiNabil\\Hasil\\tujuan2\\train.csv": "7cc5cf70db56ba973df8833e45b88c09bc3a674afd8fb0027ed42d63925cdd3f",
+    "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\SourceCode\\SkripsiNabil\\Hasil\\tujuan2\\val.csv": "9265c9db475d291ab2f7855455a17246fed0126cb5d55140c730138cde3769e9",
+    "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\SourceCode\\SkripsiNabil\\Hasil\\tujuan2\\test.csv": "eca4897b1d42cca5761cabec0b445bed589320bf08dc039929f1d4af9f68528f",
+    "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\SourceCode\\SkripsiNabil\\tujuan2\\[2] modelling\\08-modelling-preparation.ipynb": "1a7d8204c5db6721ce723827b0920a250465c0fc20ae07d690507e57114d8cc5",
+    "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\SourceCode\\SkripsiNabil\\Hasil\\tujuan2\\gemma2_training_summary.json": "2f5237ea6c7f36dabcedee3e958a5068bc94dc305558fc8c33f944c5bd3439c0",
+    "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\SourceCode\\SkripsiNabil\\tujuan2\\[2] modelling\\09-instruction-tuning-gemma2.ipynb": "13d5cc83e4ded09d0d79719c19e7b4ca05a8ed8a305d25f0239c6e10ba941bf7",
+    "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\SourceCode\\SkripsiNabil\\Hasil\\tujuan2\\llama3.2_training_summary.json": "133cbae5523398d2bc7749b4cd66526c061518f33904cf0b4d6da92f63473233",
+    "D:\\Politeknik Statistika STIS\\Pembelajaran\\Skripsi\\SourceCode\\SkripsiNabil\\tujuan2\\[2] modelling\\09-instruction-tuning-llama3-2.ipynb": "fd88aaf982ea65cb5a7ec7cc817de2db596133b81fe42af1d1fd192d8ab4457e"
+  },
+  "references": [
+    {
+      "title": "Resource-efficient Algorithms and Systems of Foundation Models: A Survey",
+      "year": 2025,
+      "venue": "ACM Computing Surveys 57(5), 110",
+      "type": "journal",
+      "url": "https://doi.org/10.1145/3706418"
+    },
+    {
+      "title": "Parameter-efficient fine-tuning in large language models: a survey of methodologies",
+      "year": 2025,
+      "venue": "Artificial Intelligence Review 58, 227",
+      "type": "journal",
+      "url": "https://link.springer.com/article/10.1007/s10462-025-11236-4"
+    },
+    {
+      "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+      "year": 2023,
+      "venue": "NeurIPS",
+      "type": "conference",
+      "url": "https://proceedings.neurips.cc/paper_files/paper/2023/hash/1feb87871436031bdc0f2beaa62a049b-Abstract-Conference.html"
+    },
+    {
+      "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+      "year": 2023,
+      "venue": "SOSP",
+      "type": "conference_author_manuscript",
+      "url": "https://arxiv.org/abs/2309.06180"
+    },
+    {
+      "title": "Self-Instruct: Aligning Language Models with Self-Generated Instructions",
+      "year": 2023,
+      "venue": "ACL",
+      "type": "conference",
+      "url": "https://aclanthology.org/2023.acl-long.754/"
+    },
+    {
+      "title": "psutil process counters",
+      "type": "official_documentation",
+      "url": "https://psutil.readthedocs.io/stable/index.html"
+    },
+    {
+      "title": "NVIDIA NVML process memory and WDDM limitation",
+      "type": "official_documentation",
+      "url": "https://docs.nvidia.com/deploy/nvml-api/latest/api/structnvmlProcessDetail__v1__t.html"
+    }
+  ],
+  "dataset_split_counts": {
+    "train": 6516,
+    "val": 1043,
+    "test": 1791
+  },
+  "limitations": [
+    "Missing measurements stay null; host CPU/GPU metrics are not QA resource metrics.",
+    "RSS may count shared pages more than once; short peaks/processes may be missed.",
+    "QA GPU memory is reported per device, not as pooled VRAM.",
+    "Traffic, margins and growth are explicit assumptions; laptop specification is not a server recommendation.",
+    "Concurrency profiles use repeated cached questions and do not establish a production SLA.",
+    "CPU core-equivalents and reference replica counts apply to the measured hardware/software/workload.",
+    "Runtime environment declarations must still be verified against the actual backend and destination server.",
+    "Training peak memory with optimizer/checkpoint/export is not measured by the inference notebook."
+  ]
+}

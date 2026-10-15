@@ -1,0 +1,80 @@
+{
+  "scenario_source": "manual static question bank; no test.csv and no LLM question generation",
+  "pipeline": "active model expansion -> dense+BM25 -> RRF -> reranker -> active model citation -> active model answer",
+  "kb_repo": "Makaareeem/publikasi-rag-knowledge-base",
+  "asset_revisions": {
+    "kb": "4b1f976ab0686415c7d5fcd24021fa8bebf8d566",
+    "embedding": "e9b6763023c676ca8431644204f50c2b100d9aab",
+    "reranker": "4ac48b5f862022b50c8b85586699a3213490fc10"
+  },
+  "models": {
+    "llama3.2-finetuned": {
+      "repo": "Makaareeem/llama3.2-finetuned-gguf",
+      "filename": "Llama-3.2-3B-Instruct.Q4_K_M.gguf",
+      "revision": "30d429479d1ac801e821ff5180939f394bf65b09",
+      "ollama_name": "llama3.2-finetuned-scenario-rag"
+    },
+    "gemma2-finetuned": {
+      "repo": "Makaareeem/gemma2-finetuned-gguf",
+      "filename": "gemma-2-2b-it.Q4_K_M.gguf",
+      "revision": "1f1605ac28793bf87a7994399ff2a4a44e8bca4e",
+      "ollama_name": "gemma2-finetuned-scenario-rag"
+    }
+  },
+  "model_keys": [
+    "llama3.2-finetuned",
+    "gemma2-finetuned",
+    "deepseek-flash"
+  ],
+  "model_specific_expansion_and_citation": true,
+  "evaluation": {
+    "human": {
+      "evaluators": [
+        "evaluator_1",
+        "evaluator_2",
+        "evaluator_3"
+      ],
+      "dimensions": [
+        "fluency",
+        "factual_correctness",
+        "completeness"
+      ]
+    },
+    "ragas": {
+      "enabled": true,
+      "metrics": [
+        "faithfulness",
+        "answer_relevancy",
+        "context_relevance"
+      ],
+      "judge": "gpt-4o-mini-2024-07-18",
+      "embedding": "text-embedding-3-small"
+    }
+  },
+  "scenario_design": {
+    "total": 20,
+    "per_scenario": 4,
+    "style": {
+      "one_meaning": "IPM trend",
+      "variants": 4,
+      "formal_baseline": true
+    },
+    "typo": {
+      "minor": 2,
+      "major": 2,
+      "paired_with_clean_factual": true
+    }
+  },
+  "n_scenarios": 20,
+  "n_outputs": 60,
+  "evaluator_ids": [
+    "evaluator_1",
+    "evaluator_2",
+    "evaluator_3"
+  ],
+  "seed": 42,
+  "top_k": 5,
+  "num_ctx": 8192,
+  "max_new_tokens": 512,
+  "note": "All 20 questions are manually frozen. LLMs do not create or rewrite evaluation questions."
+}

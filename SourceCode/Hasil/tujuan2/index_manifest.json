@@ -1,0 +1,23 @@
+{
+  "total_chunks": 22603,
+  "embedding_dim": 768,
+  "index_type": "IndexFlatIP",
+  "model_id": "nomic-ai/nomic-embed-text-v1.5",
+  "task_prefix": "search_document: ",
+  "query_prefix": "search_query: ",
+  "max_seq_length": 2048,
+  "normalized": true,
+  "pipeline_version": "embedding_v2_rag",
+  "source": "rag_chunks_v3",
+  "chunk_type_distribution": {
+    "toc_table": 121,
+    "toc_figure": 85,
+    "text_only": 21295,
+    "figure_rich": 643,
+    "mixed_rich": 152,
+    "table_rich": 307
+  },
+  "n_toc_chunks": 206,
+  "n_truncated_chunks": 0,
+  "embeddings_sha256": "9af53f2ae53e98ea27850136e4cdca198872f782ad35b5664059a766d9d672e9"
+}

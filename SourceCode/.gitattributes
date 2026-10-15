@@ -1,0 +1,2 @@
+Hasil/**/*.jsonl filter=lfs diff=lfs merge=lfs -text
+Hasil/**/*.bin filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-09-02T22:21:09+00:00",
+  "total_raw": 12261,
+  "total_filtered": 9350,
+  "total_removed": 2911,
+  "n_meta_ref_cleaned": 14,
+  "n_cot_ungrounded_soft": 205,
+  "removal_reasons": {
+    "table_residue": 1896,
+    "table_ref_instruction": 40,
+    "near_duplicate": 232,
+    "high_ocr_noise": 749,
+    "mixed_english_detected": 80
+  },
+  "track_a_score_by_subtask": {
+    "factual_retrieval": {
+      "n": 1778,
+      "mean": 0.9475686726659168,
+      "min": 0.535
+    },
+    "source_navigation": {
+      "n": 1357,
+      "mean": 0.9658492999263081,
+      "min": 0.535
+    },
+    "methodology_explanation": {
+      "n": 1444,
+      "mean": 0.9660608725761772,
+      "min": 0.535
+    },
+    "definition_clarification": {
+      "n": 1492,
+      "mean": 0.9694021447721181,
+      "min": 0.535
+    },
+    "trend_interpretation": {
+      "n": 1329,
+      "mean": 0.9459498871331828,
+      "min": 0.55
+    },
+    "causal_reasoning": {
+      "n": 1337,
+      "mean": 0.9496599102468213,
+      "min": 0.55
+    },
+    "comparative_analysis": {
+      "n": 1453,
+      "mean": 0.9292779766001377,
+      "min": 0.535
+    },
+    "multi_source_synthesis": {
+      "n": 1308,
+      "mean": 0.94265374617737,
+      "min": 0.55
+    },
+    "document_overview": {
+      "n": 763,
+      "mean": 0.9471994757536042,
+      "min": 0.535
+    }
+  },
+  "config": {
+    "input_dir": "/kaggle/input/notebooks/muhammadnabilul/05-generating-context-awareqa/output_05a_v2",
+    "output_dir": "output_05b",
+    "hf_repo_id": "Makaareeem/publikasi-rag-knowledge-base",
+    "embedding_model": "nomic-ai/nomic-embed-text-v1.5",
+    "dedup_threshold": 0.97,
+    "dedup_max_per_cluster": 2,
+    "dedup_max_per_cluster_lenient": 6,
+    "dedup_lenient_subtasks": [
+      "methodology_explanation",
+      "definition_clarification"
+    ],
+    "degenerate_min_words": 6,
+    "degenerate_min_words_by_subtask": {
+      "source_navigation": 3,
+      "factual_retrieval": 3
+    },
+    "chunk_id_hard_fail_ratio": 0.5,
+    "embed_batch_size": 128,
+    "preview_n": 4,
+    "preview_seed": 42,
+    "dedup_seed": 42,
+    "cot_min_span_overlap": 0.5
+  }
+}

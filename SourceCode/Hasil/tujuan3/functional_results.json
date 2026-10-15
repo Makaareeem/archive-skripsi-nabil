@@ -1,0 +1,58 @@
+[
+  {
+    "case":"empty_question",
+    "status":"pass",
+    "status_code":422,
+    "detail":"{\"detail\":[{\"type\":\"string_too_short\",\"loc\":[\"body\",\"question\"],\"msg\":\"String should have at least 1 character\",\"input\":\"\",\"ctx\":{\"min_length\":1}}]}",
+    "client_total_s":null,
+    "answer_status":null
+  },
+  {
+    "case":"whitespace_question",
+    "status":"pass",
+    "status_code":422,
+    "detail":"{\"detail\":[{\"type\":\"string_too_short\",\"loc\":[\"body\",\"question\"],\"msg\":\"String should have at least 1 character\",\"input\":\"   \",\"ctx\":{\"min_length\":1}}]}",
+    "client_total_s":null,
+    "answer_status":null
+  },
+  {
+    "case":"unknown_model",
+    "status":"pass",
+    "status_code":400,
+    "detail":"{\"detail\":\"Model tidak dikenal.\"}",
+    "client_total_s":null,
+    "answer_status":null
+  },
+  {
+    "case":"public_non_rag_rejected",
+    "status":"pass",
+    "status_code":422,
+    "detail":"{\"detail\":[{\"type\":\"literal_error\",\"loc\":[\"body\",\"use_rag\"],\"msg\":\"Input should be True\",\"input\":false,\"ctx\":{\"expected\":\"True\"}}]}",
+    "client_total_s":null,
+    "answer_status":null
+  },
+  {
+    "case":"invalid_top_k",
+    "status":"pass",
+    "status_code":422,
+    "detail":"{\"detail\":[{\"type\":\"greater_than_equal\",\"loc\":[\"body\",\"top_k\"],\"msg\":\"Input should be greater than or equal to 1\",\"input\":0,\"ctx\":{\"ge\":1}}]}",
+    "client_total_s":null,
+    "answer_status":null
+  },
+  {
+    "case":"valid_schema__production__llama3.2-finetuned__rag_True",
+    "status":"pass",
+    "status_code":200,
+    "detail":"Kontrak valid; bukan penilaian akurasi.",
+    "client_total_s":74.7770065,
+    "answer_status":"unverified"
+  },
+  {
+    "case":"valid_schema__production__gemma2-finetuned__rag_True",
+    "status":"pass",
+    "status_code":200,
+    "detail":"Kontrak valid; bukan penilaian akurasi.",
+    "client_total_s":29.7877635,
+    "answer_status":"unverified"
+  }
+]

@@ -1,0 +1,1298 @@
+{
+  "document_metadata": {
+    "judul": "Infografis Statistik Kesejahteraan Rakyat 2025",
+    "tahun": "2025",
+    "bps_url": "https://www.bps.go.id/id/publication/2025/12/15/455ec263473179cad2856649/infografis-statistik-kesejahteraan-rakyat-2025.html",
+    "nama_file": "infografis-statistik-kesejahteraan-rakyat-2025.pdf",
+    "n_halaman": 68
+  },
+  "cleaning_summary": {
+    "total_pages": 68,
+    "empty_pages": 0,
+    "low_char_pages": 24,
+    "heading_pages": 31,
+    "table_pages": 0,
+    "total_chars_raw": 30394,
+    "total_chars_clean": 24071,
+    "max_chars_page": 1503,
+    "min_chars_page": 1,
+    "reduction_pct": 20.8,
+    "picture_blocks_removed": 38,
+    "watermark_removed": 15
+  },
+  "pipeline_version": "v1.0",
+  "sections": [
+    {
+      "title": "INFOGRAFIS STATISTIK",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 1,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 1,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0001",
+          "text": "## INFOGRAFIS STATISTIK\n“N7 VOLUME 1, 2025 paw te =e : ’ sR? a __ oan"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "paw ee te =e",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 1,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 1,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0001",
+          "text": "## paw ee te =e"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": ", SREP”",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 1,
+      "page_end": 3,
+      "blocks": [
+        {
+          "page_number": 1,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0001",
+          "text": "## , SREP”\ni"
+        },
+        {
+          "page_number": 2,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0002",
+          "text": "ii"
+        },
+        {
+          "page_number": 3,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0003",
+          "text": "RAKYAT 2025 VOLUME 1, 2025\niii"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "**Infografis Statistik Kesejahteraan Rakyat 2025**",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 4,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 4,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0004",
+          "text": "## **Infografis Statistik Kesejahteraan Rakyat 2025**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "**Volume 1, 2025**",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 4,
+      "page_end": 4,
+      "blocks": [
+        {
+          "page_number": 4,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0004",
+          "text": "## **Volume 1, 2025**\n**No. Publikasi : 04200.25030 Katalog : 4101033 Ukuran Buku : 18,2 cm x 25,7 cm Jumlah Halaman : viii+55 halaman Penyusun Naskah : Direktorat Statistik Kesejahteraan Rakyat Penyunting : Direktorat Statistik Kesejahteraan Rakyat Pembuat Kover : Direktorat Statistik Kesejahteraan Rakyat Penerbit : ©Badan Pusat Statistik Sumber Ilustrasi : freepik.com, flaticon.com, canva.com, vector69.com, storyset.com**\n**Dilarang mereproduksi dan/atau menggandakan sebagian atau seluruh isi buku ini untuk tujuan komersial tanpa izin tertulis dari Badan Pusat Statistik**\niv"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "**TIM PENYUSUN**",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 5,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 5,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0005",
+          "text": "## **TIM PENYUSUN**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "**Infografis Statistik Kesejahteraan Rakyat 2025 Volume 1, 2025**",
+      "level": 1,
+      "source": "markdown",
+      "page_start": 5,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 5,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0005",
+          "text": "# **Infografis Statistik Kesejahteraan Rakyat 2025 Volume 1, 2025**\n**Pengarah** Ateng Hartono **Penanggung Jawab** Ahmad Avenzora **Penulis Naskah dan Penyunting** Andry Poltak Lasriado Girsang, Asy Syaja’ul Haqqul Amin, Ayu Annisa YS, Budi Santoso, Budi Setiawan, Eva Yugiana, Gaib Hakiki, Hardianto, Ida Eridawaty Harahap, Idha Sahara, Kurniawan Tri Yulianto, Mayang Sari, Mega Silviliyana, Nindya Putri Sulistyowati, Ririn Kuncaraning Sari, Rizqi Nafi’ Syari’ati, Sahara Citra Kharisma, Sapta Hastho Ponco, Sugeng Supriyanto, Susanti, Yeni Rachmawati **Pengolah Data**\nDhani Arief Hartanto, Ganish Anggraeni, Kurniawan Tri Yulianto, Maziyyatul Mufiedah, Sapta Hastho Ponco, Sumardiyanto, Susanti"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "**Penata Letak**",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 5,
+      "page_end": 6,
+      "blocks": [
+        {
+          "page_number": 5,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0005",
+          "text": "## **Penata Letak**\nKurniawan Tri Yulianto, Mayang Sari, Sahara Citra Kharisma\nv"
+        },
+        {
+          "page_number": 6,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0006",
+          "text": "vi"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "**KATA PENGANTAR**",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 7,
+      "page_end": 8,
+      "blocks": [
+        {
+          "page_number": 7,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0007",
+          "text": "## **KATA PENGANTAR**\nInfografis Statistik Kesejahteraan Rakyat 2025 adalah publikasi pelengkap dari publikasi Statistik Kesejahteraan Rakyat 2025. Infografis Statistik Kesejahteraan Rakyat 2025 menyajikan informasi kependudukan, pendidikan, kesehatan, f fertilitas, perumahan, teknologi informasi dan komunikasi, serta informasi lainnya yang bersumber dari Survei Sosial Ekonomi Nasional (Susenas) Maret 2025. Data disajikan secara visual dengan tujuan untuk memudahkan pembaca dalam memahami data yang disajikan serta diharapkan dapat meningkatkan daya tarik dari data yang disajikan. Kami ucapkan terima kasih kepada seluruh pihak yang turut berpartisipasi dalam\nKami ucapkan terima kasih kepada seluruh pihak yang turut berpartisipasi dalam penulisan publikasi ini. Ruang perbaikan senantiasa selalu terbuka untuk saran maupun kritik yang membangun untuk perbaikan publikasi ini di masa yang akan datang.\nJakarta, Jakarta, Desember 2025 Desember 2025 Kepala Badan Pusat Statistik Kepala Badan Pusat Statistik a WaSy 3] Vv Amalia Adininggar Widyasanti Amalia.Adininggar Widyasanti\nvii\n**v**"
+        },
+        {
+          "page_number": 8,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0008",
+          "text": "viii"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "ee",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 9,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 9,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0009",
+          "text": "## ee"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "**DAFTAR ISI**",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 9,
+      "page_end": 10,
+      "blocks": [
+        {
+          "page_number": 9,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0009",
+          "text": "## **DAFTAR ISI**\n**Infografis Statistik Kesejahteraan Rakyat 2025 KATA PENGANTAR .................................................................................................... v DAFTAR ISI ................................................................................................................. vii BAB 1 Kependudukan ............................................................................................... 1 BAB 2 Pendidikan ..................................................................................................... 7 BAB 3 Kesehatan ...................................................................................................... 15 BAB 4 Fertilitas ........................................................................................................ 23 BAB 5 Perumahan ................................................................................................... 29 BAB 6 Teknologi Informasi dan Komunikasi ................................................. 37 BAB 7 Lainnya .......................................................................................................... 45 DAFTAR PUSTAKA ................................................................................................... 55**\nix\n**vii** @"
+        },
+        {
+          "page_number": 10,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0010",
+          "text": "x"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "NTE ITS **BAB 1** \\ **Kependudukan**",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 11,
+      "page_end": 13,
+      "blocks": [
+        {
+          "page_number": 11,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0011",
+          "text": "## NTE ITS **BAB 1** \\ **Kependudukan**\nKEPENDUDUKAN a + — ata ~ e a. Bennean? Aaa S Ane Ty _ N\n1"
+        },
+        {
+          "page_number": 12,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0012",
+          "text": "2"
+        },
+        {
+          "page_number": 13,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0013",
+          "text": "A> 1.1 Kepe milikan Akta Kelahiran\nPersentase Memiliki memiliki akta di Indonesia Akta Kelahiran\n—— Tidak Tahu\nPersentase balita di perkotaan yang memiliki akta kelahiran lebih banyak daripada balita di perdesaan\n93,95% Anak? di Indonesia Sudah Memiliki Akta Kelahiran 2Berumur O-17 tahun 93,95% Perkotaan cf 95,49%\nPerdesaan Soak 91,79% ee | Persentase anak di perkotaan yang memiliki akta kelahiran lebih banyak daripada anak di perdesaan\n3\nSumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025\n**KEPENDUDUKAN**\n**3**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "1.2 Status Perkawinan Penduduk Berstatus Kawin",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 14,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 14,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0014",
+          "text": "## 1.2 Status Perkawinan Penduduk Berstatus Kawin\n'Berumur 10 tahun ke atas\nKawin\nKawin Hidup Mati Perkotaan ra 56,85% 58,21% e e | Perdesaan yn if7 61,00% 58,83% Persentase penduduk perdesaan Persentase\nPersentase penduduk perdesaan yang berstatus kawin lebih besar daripada penduduk perkotaan"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Bengkulu (61,87%)",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 14,
+      "page_end": 14,
+      "blocks": [
+        {
+          "page_number": 14,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0014",
+          "text": "## Bengkulu (61,87%)\n- adalah 4 provinsi dengan persentase penduduk berstatus kawin paling besar\nSumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025\n**Infografis Statistik Kesejahteraan Rakyat 2025**\n**4**"
+        },
+        {
+          "page_number": 15,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0015",
+          "text": "ie 1.3 Tinggal Bersama Pasangan a ~,[=] y \\ a"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Perkotaan",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 15,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 15,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0015",
+          "text": "## Perkotaan"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Perdesaan",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 15,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 15,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0015",
+          "text": "## Perdesaan"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "97,04%",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 15,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 15,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0015",
+          "text": "## 97,04%\nberstatus Persentase penduduk laki-laki tinggal berstatus kawin yang tinggal besar bersama pasangan lebih besar berstatus daripada penduduk perempuan berstatus kawin Berstatus Kawin di Memiliki wy\nPersentase penduduk berstatus kawin di perkotaan yang tinggal bersama pasangan lebih besar daripada penduduk berstatus kawin di perdesaan"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Perkotaan",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 15,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 15,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0015",
+          "text": "## Perkotaan"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Perdesaan",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 15,
+      "page_end": 18,
+      "blocks": [
+        {
+          "page_number": 15,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0015",
+          "text": "## Perdesaan\nPersentase kawin penduduk berstatus di perkotaan yang memiliki buku/akta nikah lebih besar daripada penduduk berstatus kawin\n5\nSumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025\n**KEPENDUDUKAN**\n**5**"
+        },
+        {
+          "page_number": 16,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0016",
+          "text": "6"
+        },
+        {
+          "page_number": 17,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0017",
+          "text": "SRCCSSSRRRTELE, **BAB 2 Pendidikan** er ee ee BAB 2 PENDIDIKAN aa \\\\\n7"
+        },
+        {
+          "page_number": 18,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0018",
+          "text": "8"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Kemampuan Membaca dan Menulis Penduduk Berumur 15 tahun ke atas",
+      "level": 2,
+      "source": "section",
+      "page_start": 19,
+      "page_end": 19,
+      "blocks": [
+        {
+          "page_number": 19,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0019",
+          "text": "2.1 Kemampuan Membaca dan Menulis Penduduk Berumur 15 tahun ke atas\nrs ntas n u u rumur tahun atas yang a at m m a a an m nulis l ih tinggi i ari a a r saan a alah r insi ngan rs ntas n u u rumur tahun atas yang a at m m a a an m nulis a alah r insi ngan n u u rumur tahun atas yang a at m m a a an m nulis me ~~ S e 7\nSum r a an usat Statisti , Sur i S sial n mi Nasi nal Sus nas ar t\n9\n**PENDIDIKAN 9** @"
+        },
+        {
+          "page_number": 20,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0020",
+          "text": "‘ -"
+        }
+      ],
+      "tables": [],
+      "figures": [],
+      "section_id": "2.1"
+    },
+    {
+      "title": "Partisipasi Sekolah",
+      "level": 2,
+      "source": "section",
+      "page_start": 20,
+      "page_end": 21,
+      "blocks": [
+        {
+          "page_number": 20,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0020",
+          "text": "2.2 Partisipasi Sekolah\nrs ntas yang i an ing an la i la i f95 aid ~ Ls ~ LI ml\nSum r a an usat Statisti , Sur i S sial n mi Nasi nal Sus nas ar t\n10\n**10 Infografis Statistik Kesejahteraan Rakyat 2025**"
+        },
+        {
+          "page_number": 21,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0021",
+          "text": "PENDUDUK BERUMUR 15 TAHUN KE ATAS, 2025 2.3 Ijazah/STTB Tertinggi yang Dimiliki\nyang sudah menyelesaikan semua persyaratan akademik\nGg 23,90% 22,48% 31,25% Dp T ©) co) ‘_ yy ) 1 dari 10 penduduk berumur 15 tahun ke atas tamat Pendidikan Tinggi iy PERKOTAAN PERDESAAN °° = 7,92% —| 16,52% 19,33% a 30,71% 21,58% i? 23,82% 36,84% 2 22,91% 14,33% Il 6,03% é Penduduk berumur 15 tahun ke atas di perkotaan (2 2. didominasi oleh tamatan SMA/SMK Sederajat, Fi wy5 sedangkan di perdesaan didominasi oleh tamatan SD Sederajat Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025\n11\n**PENDIDIKAN**\n**11**"
+        }
+      ],
+      "tables": [],
+      "figures": [],
+      "section_id": "2.2"
+    },
+    {
+      "title": "Keikutsertaan Pendidikan Prasekolah",
+      "level": 2,
+      "source": "section",
+      "page_start": 22,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 22,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0022",
+          "text": "2.4 Keikutsertaan Pendidikan Prasekolah\n— Pendidikan prasekolah adalah pendidikan yang Y iid;7 . 4 ; diselenggarakan sebelummelaluissjalur pendidikaneae jenjang formal maupunpendidikan nonformaldasar, baik Sebanyak 65,85 persen penduduk berumur 0-6 tahun tidak/belum pernah mengikuti pendidikan prasekolah am ~ - Masih MengikutiVv PernahYMengikuti Tidak/BelumVv Prasekolah Prasekolah Mengikuti sebelum TA 2024/2025 a) TA 2024/2025 TA 2024/2025 atau cl y Z"
+        }
+      ],
+      "tables": [],
+      "figures": [],
+      "section_id": "2.4"
+    },
+    {
+      "title": "a)",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 22,
+      "page_end": 22,
+      "blocks": [
+        {
+          "page_number": 22,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0022",
+          "text": "## a)\n12\n**Infografis Statistik Kesejahteraan Rakyat 2025**\n**12**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "2.5 Keikutsertaan Pendidikan Prasekolah Menurut Jenis Pendidikan MENURUT JENIS PENDIDIKAN, 2025",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 23,
+      "page_end": 26,
+      "blocks": [
+        {
+          "page_number": 23,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0023",
+          "text": "## 2.5 Keikutsertaan Pendidikan Prasekolah Menurut Jenis Pendidikan MENURUT JENIS PENDIDIKAN, 2025\ni Kelompok Bermain/ Taman Penitipan Anak/ Satuan PAUD Sejenis Satuan PAUD Sejenis meliputi PAUD \\ ! / terintegrasiTAAM, PAUD-PAK, BKB/Taman PAUD-BIA, TKQ, Posyandu, PAUD- dll PENDUDUK BERUMUR 0-6 TAHUN YANG PERNAH/MASIH MENGIKUTI PENDIDIKAN PRASEKOLAH PADA TK/RA/BA, 2025\nSee? Laki-Laki\n13\n**PENDIDIKAN**\n**13**"
+        },
+        {
+          "page_number": 24,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0024",
+          "text": "14"
+        },
+        {
+          "page_number": 25,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0025",
+          "text": "**BAB 3 Kesehatan**\nae KESEHATAN as 15 Loy”"
+        },
+        {
+          "page_number": 26,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0026",
+          "text": "16"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Keluhan Kesehatan KESEHATAN PENDUDUK INDONESIA Sebanyak PE \\da 7 100 | penduduk Indonesia mengalami keluhan kesehatan dalam sebulan terakhir Keluhanmengalami kesehatan adalah gangguan kesehatan keadaanatau seseorangkejiwaan,yangbaik karena gangguan/penyokit yang sering dialami, seperti: panas, batuk, pilek, diare, sakit kepala, maupun karena penyakit akut, penyakit kronis (meskipun selama sebulan terakhir tidak mempunyai keluhan), karena kecelakaan, kriminalitas, atau",
+      "level": 2,
+      "source": "section",
+      "page_start": 27,
+      "page_end": 27,
+      "blocks": [
+        {
+          "page_number": 27,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0027",
+          "text": "3.1 Keluhan Kesehatan KESEHATAN PENDUDUK INDONESIA Sebanyak PE \\da 7 100 | penduduk Indonesia mengalami keluhan kesehatan dalam sebulan terakhir Keluhanmengalami kesehatan adalah gangguan kesehatan keadaanatau seseorangkejiwaan,yangbaik karena gangguan/penyokit yang sering dialami, seperti: panas, batuk, pilek, diare, sakit kepala, maupun karena penyakit akut, penyakit kronis (meskipun selama sebulan terakhir tidak mempunyai keluhan), karena kecelakaan, kriminalitas, atau\nPerkotaan Menurut klasifikasi desa 27,88% Persentase penduduk yang mempunyai keluhan Perdesaan kesehatan sedikit lebih 28,95% tinggi di daerah perdesaan dibanding perkotaan 10 20 30\n» » f ’ > ‘. ea N eoa ee Provinsi - Tertinggi Nusa(42,00%) Tenggara Barat\nSumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025 17\n**KESEHATAN 17**"
+        }
+      ],
+      "tables": [],
+      "figures": [],
+      "section_id": "3.1"
+    },
+    {
+      "title": "Upaya Pengobatan Penduduk PENGOBATAN penduduk yang mempunyai keluhan kesehatan dalam sebulan terakhir dan melakukan rawat jalan Menurut klasifikasi desa Perkotaan 7 penduduk yang a 41,65% kesehatan ° terakhir dan ~~ rawat jalan lebih —_ perkotaan vl, ee di daerah daerah \\{ = 36,79% ras bhi O 10 20 30 40 mempunyai keluhan kesehatan Praktik;; dalam sebulan",
+      "level": 2,
+      "source": "section",
+      "page_start": 28,
+      "page_end": 28,
+      "blocks": [
+        {
+          "page_number": 28,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0028",
+          "text": "3.2 Upaya Pengobatan Penduduk PENGOBATAN penduduk yang mempunyai keluhan kesehatan dalam sebulan terakhir dan melakukan rawat jalan Menurut klasifikasi desa Perkotaan 7 penduduk yang a 41,65% kesehatan ° terakhir dan ~~ rawat jalan lebih —_ perkotaan vl, ee di daerah daerah \\{ = 36,79% ras bhi O 10 20 30 40 mempunyai keluhan kesehatan Praktik;; dalam sebulan\nmemiliki keluhan kesehatan dalam sebulan terakhir dan melakukan rawat jalan lebih tinggi di daerah perkotaan dibandingkan di daerah daerah\nKlinik ini dan Praktik;; Dokter/Bidan/Perawat ES 52.07% Puskesmas/Pustu/Pusling 9 30,05%\nRumah Sakit Swasta [J 9,67% cs Rumah Sakit Pemerintah J 9,59% Si Kesehat Ss= == Tradisional/Lainnya ‘Ml 3,84% of ie O 20 40 60 Dua fasilitas Kesehatan yang paling banyak dikunjungi penduduk untuk mendapatkan layanan rawat jalan adalah Klinik dan Praktik Dokter/Bidan/Perawat\n18\n**Infografis Statistik Kesejahteraan Rakyat 2025**\n**18**"
+        }
+      ],
+      "tables": [],
+      "figures": [],
+      "section_id": "3.2"
+    },
+    {
+      "title": "UDUK 3.3 Jaminan Kesehatan INDONESIA Sebanyak 78 dariff-ye), penduduk Indonesia memiliki jaminan",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 29,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 29,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0029",
+          "text": "## UDUK 3.3 Jaminan Kesehatan INDONESIA Sebanyak 78 dariff-ye), penduduk Indonesia memiliki jaminan\nBPJS Kesehatan baik PBI maupun non-PBI,"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Menurut klasifikasi desa",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 29,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 29,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0029",
+          "text": "## Menurut klasifikasi desa"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Menurut jenis 72,77% jJaminan kesehatan BPJS Kesehatan v 7 . Y P| Perusahaan/kantor Perdesaan f Jamkesda yang memiliki | lebih tinggi | Asuransi Swasta dibandingkan ' daerah perdesaan. | BPJS Kesehatan merupakan jenis",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 29,
+      "page_end": 31,
+      "blocks": [
+        {
+          "page_number": 29,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0029",
+          "text": "## Menurut jenis 72,77% jJaminan kesehatan BPJS Kesehatan v 7 . Y P| Perusahaan/kantor Perdesaan f Jamkesda yang memiliki | lebih tinggi | Asuransi Swasta dibandingkan ' daerah perdesaan. | BPJS Kesehatan merupakan jenis\n2\nf Persentase penduduk yang memiliki | jaminan kesehatan tercatat lebih tinggi | di daerah perkotaan dibandingkan ' NN di daerah perdesaan. es\n‘.\nSumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025 19\n**KESEHATAN**\n**19**"
+        },
+        {
+          "page_number": 30,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0030",
+          "text": "——eeeee 3.4 Perilaku Merokok ee\nRokok tembakau meliputi rokok putih, rokok keretek, cerutu, lisong, pipa cangklong/linting/kawung yang diisi tembakau. Termasuk juga orang yang menghisap shisha/waterpipe, dan\nPerkotaan\nwi lebih banyak daripada yang merokok di perdesaan TT di daerah perkotaan. Perdesaan he 6 5 | —»\n1,21% 15 tahun ke atas merokok menggunakan rokok elektrik/vape selama sebulan terakhir, baik setiap hari maupun tidak setiap har!\n20\n**20 Infografis Statistik Kesejahteraan Rakyat 2025**"
+        },
+        {
+          "page_number": 31,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0031",
+          "text": "3 .5 Air Susu Ibu (ASI)\nanak umur 12-23 bulan yang masih disusui/diberi ASI sebesar 73,87 persen. Anak umur 0-23 bulan yang pernah diberi ASI selama seharian kemarin di daerah perdesaan tidak jauh 94,57% berbeda dengan di daerah perkotaan. 20 40 60 80 100\nem De een 2 i 94,57% Perkotaan O 20 40 60 80 . \\ ? . zz ¥ *, ep Bete= ~ - = ae J ~\n21\n**KESEHATAN 21**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Imunisasi --",
+      "level": 2,
+      "source": "section",
+      "page_start": 32,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 32,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0032",
+          "text": "3.6 Imunisasi --\nterpajan dengan penyakit tersebut tidak akan sakit atau hanya mengalami"
+        }
+      ],
+      "tables": [],
+      "figures": [],
+      "section_id": "3.6"
+    },
+    {
+      "title": "0-59 bulan pernah diberi imunisasi.",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 32,
+      "page_end": 32,
+      "blocks": [
+        {
+          "page_number": 32,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0032",
+          "text": "## 0-59 bulan pernah diberi imunisasi.\nay eee an tt) I Perdesaan it se Perkotaes\" 20 40 60 80 100 er ram ‘ _? ‘t i | ~ ' € ’ } Ac ~ \\ A A —— = = _— ‘. heal : ie 4 1 “eta ce v / ‘. fen =~aw J ~ wo a Khawatir dengan éfek samping . . vaksin J 74.43% Alasan balita tidak Alasan lainnya FY 47,09% pernah diimunisasi Khawatir dengan kandungan Yang paling banyak * daiamvaksin [NY 41,37% ditemui adalah _. Raguagu tete r hadap Pef e fektivitasldiviBs ©| 20 4039,21%60 80 100 khawatiri dengan efek samping vaksin. Sumber. Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025 22\n**22 Infografis Statistik Kesejahteraan Rakyat 2025**"
+        },
+        {
+          "page_number": 33,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0033",
+          "text": "**BAB 4 Fertilitas**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "FERTILITAS",
+      "level": 1,
+      "source": "markdown",
+      "page_start": 33,
+      "page_end": 35,
+      "blocks": [
+        {
+          "page_number": 33,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0033",
+          "text": "# FERTILITAS\n23"
+        },
+        {
+          "page_number": 34,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0034",
+          "text": "24"
+        },
+        {
+          "page_number": 35,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0035",
+          "text": "* 4.1 Umur Perkawinan Pertama\nPersentase PPK berumur 10 tahun ke atas yang melakukan perkawinan pertama saat berumur kurang dari 19 tahun lebih tinggi di daerah perdesaan daripada di daerah perkotaan berumur 15-49 tahun berumur kurang dari a> y 7\n19 dari 100 PPK berumur 15-49 tahun hamil pertama saat berumur kurang dari\nPersentase PPK berumur 15-49 tahun dengan umur hamil pertama kurang dari 19daripada tahun lebihdi daerahtinggi perkotaandi daerah\n25\n**FERTILITAS 25**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Pros es Persalinan",
+      "level": 2,
+      "source": "section",
+      "page_start": 36,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 36,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0036",
+          "text": "4.2 Pros es Persalinan"
+        }
+      ],
+      "tables": [],
+      "figures": [],
+      "section_id": "4.2"
+    },
+    {
+      "title": "Tempat Melahirkan",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 36,
+      "page_end": 36,
+      "blocks": [
+        {
+          "page_number": 36,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0036",
+          "text": "## Tempat Melahirkan\n7 ca oa Puskesmas i 15,45% og 8 oe oaey SS Lainnya! i 7,69% A — i Klinik B 632% Pustu | 0,71% Penolong tahun ALH terakhir, *\nqe\n51 dari 100 PPK berumur 15-49 tahun yang pernah melahirkan ALH dalam dua tahun terakhir, ALH yang terakhir dilahirkan ditolong oleh— =\ndilahirkan ditolong oleh Bidan lebih tinggi di Perdesaan daripada di Perkotaan\n26\n**Infografis Statistik Kesejahteraan Rakyat 2025**\n**26**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "ANAK 4.3 Berat Badan Anak Lahir Hidup LAHIR HIDUP (ALH) 2025",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 37,
+      "page_end": 38,
+      "blocks": [
+        {
+          "page_number": 37,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0037",
+          "text": "## ANAK 4.3 Berat Badan Anak Lahir Hidup LAHIR HIDUP (ALH) 2025\n4 PersentaseBerat Badan He Lahirtinggi Rendahdiprvi erdesaan(BBLR) lebih Ht bila dibandingkan dengan 15,92% 12,56% a Perkotaan Perdesaan =I | ; t : ¢ yy Tertingai (24,86%)\n27\n**FERTILITAS**\n**27**"
+        },
+        {
+          "page_number": 38,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0038",
+          "text": "Inisiasi 4.4 Inisiasi Menyusu Dini Menyusu Dini (IMD) adalah meletakkan bayi menempel di dada\nKlasifikasi Desa Birr wel tinggi di dengan di perdesaan & y Perdesaan\n28\n**28 Infografis Statistik Kesejahteraan Rakyat 2025**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "**BAB 5** 1 = **Perumahan**",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 39,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 39,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0039",
+          "text": "## **BAB 5** 1 = **Perumahan**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Cores",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 39,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 39,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0039",
+          "text": "## Cores"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "PERUMAHAN",
+      "level": 1,
+      "source": "markdown",
+      "page_start": 39,
+      "page_end": 41,
+      "blocks": [
+        {
+          "page_number": 39,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0039",
+          "text": "# PERUMAHAN\n29"
+        },
+        {
+          "page_number": 40,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0040",
+          "text": "30"
+        },
+        {
+          "page_number": 41,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0041",
+          "text": "TEMPAT TINGGAL, 5.1 Status Kepemilikan Bangunan Tempat Tinggal 2025\nLa fim Ee A 1 4 SNL aa 85 dari 100 tangga di _ menempati\nDinas/Lainnya | -0,78% | yang menempati bangunan sendiri lebih tinggi di daerah perkotaan.\nPersentase rumah tangga yang menempati tempat tinggal milik sendiri lebih tinggi perdesaan dibandingkan perkotaan.\nMilik Sendiri 92,97%\nPersentase rumah tempat tinggal bebas sewa, dan\n31\n**PERUMAHAN**\n**31**"
+        },
+        {
+          "page_number": 42,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0042",
+          "text": "DAN LANTAI RUMAH TERLUAS, 2025 5.2 Bahan Bangunan Utama Atap, Dinding, dan Lantai Rumah\n,) Perkotaan Cay Perdesaan"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "a Tembok bangunan terluas yang oleh rumah Yo00",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 42,
+      "page_end": 45,
+      "blocks": [
+        {
+          "page_number": 42,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0042",
+          "text": "## a Tembok bangunan terluas yang oleh rumah Yo00\n64,83 Yo00 Keramik/ubin/tegel/teraso, parket/vinil/karpet merupakan jenis bahan bangunan utama lantai rumah terluas yang paling banyak digunakan\n32\n**Infografis Statistik Kesejahteraan Rakyat 2025**\n**32**"
+        },
+        {
+          "page_number": 43,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0043",
+          "text": "BUANG AIR BESAR (BAB) SERTA JENIS TOILET, 2025 5.3 Kepemilikan dan Penggunaan Fasilitas Tempat Buang Air Besar\n(BAB)\n90,36% 4,56% 2,72% 0,05% Ez ToWeT 2 e , 5 Cs EB iy Ada, Ada, Digunakan Ada, di MCK Ada, Tidak Digunakan bersama komunal, menggunakan sendiri rumah tangga MCK umum/ tertentu siapapun menggunakan Sekitar 9 dari 10 rumah tangga di_ ;: Sebagianmemiliki fasilitasbesar yang digunakan sendiri. : Komunal, : Jleher angsa\n33\n**PERUMAHAN**\n**33**"
+        },
+        {
+          "page_number": 44,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0044",
+          "text": "> 5.4 Sumber Air Utama untuk Minum dan Mandi/Cuci/Dll. MANDI/CUCI/DLL.,\n45,65% Air Kemasan Bermernk; AintsiiUlang Onze 11,677.20) Sumur hak jerlindung Fass Mata) Air fenlindung; Mata) Air takmernindung; i Sumber Air Minum 8) Sumber Air Mandi/Cuci/dll. sa — |. 4dari10 34 **34 Infografis Statistik Kesejahteraan Rakyat 2025** Sumber:Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025\n**34**"
+        },
+        {
+          "page_number": 45,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0045",
+          "text": "> 5.5 Gas sebagai Bahan Bakar Utama untuk Memasak MEMASAK, 2025\n##\nEkonomi Nasional (Susenas) Maret 2025\n35\n**PERUMAHAN 35**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Sekitar= 5.6 Pemilahan Sampah 17% rumah tangga Indonesia melakukan",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 46,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 46,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0046",
+          "text": "## Sekitar= 5.6 Pemilahan Sampah 17% rumah tangga Indonesia melakukan\nanorganik, B3, dan residu}.\n| | <5, Rumah tangga yang ’ melakukan pemilahan 2 jenis sampah sebesar 14,93% 14,93% dan rumah tangga yang 83,75% melakukan pemilahan 3 jenis atau lebih e ” _ sampah sebesar 1,32%. DI Yogyakarta Tertinggi dalam 2jenis"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Menurut provinsi",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 46,
+      "page_end": 46,
+      "blocks": [
+        {
+          "page_number": 46,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0046",
+          "text": "## Menurut provinsi\nDI Yogyakarta Tertinggi dalam 2jenis pemilahan sampah ? Dee~ | = ’ > ‘ ‘ te ; ete 5 5c Kep. Bangka Belitung\n36\n**36 Infografis Statistik Kesejahteraan Rakyat 2025**"
+        },
+        {
+          "page_number": 47,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0047",
+          "text": "NL S77 SN **BAB 6 Teknologi Informasi dan Komunikasi**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "TEKNOLOGI INFORMASI DAN KOMUNIKASI",
+      "level": 1,
+      "source": "markdown",
+      "page_start": 47,
+      "page_end": 48,
+      "blocks": [
+        {
+          "page_number": 47,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0047",
+          "text": "# TEKNOLOGI INFORMASI DAN KOMUNIKASI\n37"
+        },
+        {
+          "page_number": 48,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0048",
+          "text": "38"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "S| PENGGUNAAN 6.1 Kepemilikan dan Penggunaan Telepon Seluler =Whel & TELEPO",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 49,
+      "page_end": 49,
+      "blocks": [
+        {
+          "page_number": 49,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0049",
+          "text": "## S| PENGGUNAAN 6.1 Kepemilikan dan Penggunaan Telepon Seluler =Whel & TELEPO\ny &, : ~», Persentase penduduk berumur 5 tahun ke atas yang : dalam 3 Bulan = 5 terakhir sebesar 83 98% 2 ’ 0 VN +, Persentase penduduk berumur 5 tahun ke atas WN iz yang dalam 3 eae = terakhir sebesar sebesar 70 7T5% r. € *. \\ Penduduk yang menggunakan telepon seluler . ‘G ¥ ; . (HP)memilikimemiliki telepon selulerdari pada(HP) penduduk yang Aa eee ee fe\ndalam 3 sebesar 83 98% ’ 0 Persentase penduduk berumur 5 tahun terakhir sebesar sebesar 70 7T5% (HP)memilikimemiliki telepon eee ee fe\nSumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 39 2025\n**TEKNOLOGI INFORMASI DAN KOMUNIKASI 39**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Penggunaan Internet ie fc",
+      "level": 2,
+      "source": "section",
+      "page_start": 50,
+      "page_end": 50,
+      "blocks": [
+        {
+          "page_number": 50,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0050",
+          "text": "6.2 Penggunaan Internet ie fc\nMenggunakan internet adalah apabila seseorang meluangkan waktu untuk fasilitas internet, seperti mencari literatur/referensi, mengirim menggunakan internet, sehingga ia dapat memanfaatkan atau menikmati Termasukinformasi/berita, menggunakan komunikasi,internet e-mail, walaupu chatti **n** g,tidak media memiliki sosial, gake **m** es,ampuan dll. dimasukkanuntuk membukamenggunakan dan menutupinternet (log in meskipun dan log out)hanya internet.tinggal Siapamelanjutkan. saja 08:\npenduduk menggunakan berumurinternetfeElETan) 5 tahun menggunakan berumurinternetfeElETan) 5 tahun berumurinternetfeElETan) 5 tahuninternetfeElETan) 5 tahun 5 tahun tahun ke atas atas sebesar fe) 77,63% Provinsi DKI Jakarta, Lampung, dan Jakarta, Lampung, dan Lampung, dan dengan Persentase Tertinggi Persentase Tertinggi Tertinggi al ~ yang Pernah Pernah Menggunakan Internet -menurut Media\nVelie}Persentasepernah penduduk menggunakan berumurinternetfeElETan) 5 tahun menggunakan berumurinternetfeElETan) 5 tahun berumurinternetfeElETan) 5 tahuninternetfeElETan) 5 tahun 5 tahun tahun ke atas atas 3 Bulan terakhir sebesar fe) 77,63% % x Provinsi DKI Jakarta, Lampung, dan Jakarta, Lampung, dan Lampung, dan DI Yogyakarta dengan Persentase Tertinggi Persentase Tertinggi Tertinggi : al ~ yang Pernah Pernah Menggunakan Internet\nCa~\n: %\nSumber: 40 Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025\n**40 Infografis Statistik Kesejahteraan Rakyat 2025**"
+        }
+      ],
+      "tables": [],
+      "figures": [],
+      "section_id": "6.2"
+    },
+    {
+      "title": "Tempat Menggunakan Internet",
+      "level": 2,
+      "source": "section",
+      "page_start": 51,
+      "page_end": 51,
+      "blocks": [
+        {
+          "page_number": 51,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0051",
+          "text": "6.3 Tempat Menggunakan Internet\na Rumah Sendiri | a Tempat umum Yy Bukan Rumah Sendiri Kondisi Bergerak _ ~ tempak — Adasen Bekerja/Kantor mts ay bed ee 32,61% =a ¢ = Gedung Sekolah/Kampus Kondisi bergerak adalah jika seseorang menggunakan internet saat dalam perjalanan, dalam transportasi, atau berjalan kaki, misalnya di dalam kendaraan (di mobil, bus, kereta api, kapal laut), dill. 41 Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025\n**TEKNOLOGI INFORMASI DAN KOMUNIKASI**\n**41**"
+        }
+      ],
+      "tables": [],
+      "figures": [],
+      "section_id": "6.3"
+    },
+    {
+      "title": "Tujuan Menggunakan Internet Persentase penduduk berumur 5 Tahun",
+      "level": 2,
+      "source": "section",
+      "page_start": 52,
+      "page_end": 52,
+      "blocks": [
+        {
+          "page_number": 52,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0052",
+          "text": "6.4 Tujuan Menggunakan Internet Persentase penduduk berumur 5 Tahun\n79,65% Menen **d** adapatkan: _ bieledia - Informasi we Fasilitas1% Finansial\n42\n**Infografis Statistik Kesejahteraan Rakyat 2025**\n**42**"
+        }
+      ],
+      "tables": [],
+      "figures": [],
+      "section_id": "6.4"
+    },
+    {
+      "title": "RUMAH & KOMPUTER/ 6.5 Kepemilikan Telepon Rumah dan Komputer/Laptop",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 53,
+      "page_end": 54,
+      "blocks": [
+        {
+          "page_number": 53,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0053",
+          "text": "## RUMAH & KOMPUTER/ 6.5 Kepemilikan Telepon Rumah dan Komputer/Laptop\nyd SebesarMemiliki 0,61%Telepon Rumah (PSTN) Persentase rumah tangga yang memiliki Komputer/Laptop sebesar 19,94% ? O Memiliki Telepon Rumah (PSTN)\nKomputer/Laptop/Tablet DKI JAKARTA 38,42% a N\nTertinggi ae _ Vy |) Terendah a as ' 43 Sumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025\n**TEKNOLOGI INFORMASI DAN KOMUNIKASI**\n**43**"
+        },
+        {
+          "page_number": 54,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0054",
+          "text": "44"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "**BAB 7** \\ **Lain-lain**",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 55,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 55,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0055",
+          "text": "## **BAB 7** \\ **Lain-lain**\nel el"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "LAINNYA",
+      "level": 1,
+      "source": "markdown",
+      "page_start": 55,
+      "page_end": 56,
+      "blocks": [
+        {
+          "page_number": 55,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0055",
+          "text": "# LAINNYA\n45"
+        },
+        {
+          "page_number": 56,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0056",
+          "text": "46"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "939. KORBAN 7.1 Penduduk yang Menjadi Korban Kejahatan =\". \\ KEJAHATAN 2025",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 57,
+      "page_end": 57,
+      "blocks": [
+        {
+          "page_number": 57,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0057",
+          "text": "## 939. KORBAN 7.1 Penduduk yang Menjadi Korban Kejahatan =\". \\ KEJAHATAN 2025\nPersentase Penduduk menjadi Korban Kejahatan menurut Klasifikasi Desa dan Jenis Kelamin . Perkotaan Laki-laki sq NASIONAL ql 0,84% 5S 0,90% 0,73 Oo% e Perdesaan = Perempuan **?0,56% v90,55%\nSumber: Badan Pusat Statistik, Survei Sosial Ekonomi Nasional (Susenas) Maret 2025\n47\n**LAINNYA 47**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "ENERIMA KREDIT 7.2 Rumah Tangga yang Menerima Kredit 2025",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 58,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 58,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0058",
+          "text": "## ENERIMA KREDIT 7.2 Rumah Tangga yang Menerima Kredit 2025"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "a 7",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 58,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 58,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0058",
+          "text": "## a 7"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "dalam Setahun Terakhir menurut Jenis Kredit, 2025 fe) 5",
+      "level": 1,
+      "source": "markdown",
+      "page_start": 58,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 58,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0058",
+          "text": "# dalam Setahun Terakhir menurut Jenis Kredit, 2025 fe) 5\nfe) 5 Kredit Usaha Rakyat (KUR) hs 7,82 PNM-Mekaar iN 5,45 Kredit dari Bank Umum selain KUR hy 352 Kredit dari Koperasi [NN 2,56 Lainnya pF 2,56 Perusahaan Leasing Pp 2,56 Pegadaian 7 0,95 Bank Perkreditan Rakyat (BPR) _ 0,78 Perorangan dengan Bunga = 0,74 Pinjaman Online i 0,43"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Persentase Rumah Tangga yang Menerima Kredit",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 58,
+      "page_end": 59,
+      "blocks": [
+        {
+          "page_number": 58,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0058",
+          "text": "## Persentase Rumah Tangga yang Menerima Kredit\n48\n**48 Infografis Statistik Kesejahteraan Rakyat 2025**"
+        },
+        {
+          "page_number": 59,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0059",
+          "text": "SOSWVNEVAOS 7.3 Rumah Tangga yang Memiliki dan Menerima Jaminan Sosial\nVeteran Kecelakaan Kerja 8,35 % 13,58 % Jaminan Hari Tua Jaminan/ Asuransi 10,75 % Kematiani 11,59 % Jaminan Sosial\nlf\n49\n**LAINNYA**\n**49**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Rumah Tangga Penerima Program Keluarga Harapan (PKH)",
+      "level": 2,
+      "source": "section",
+      "page_start": 60,
+      "page_end": 60,
+      "blocks": [
+        {
+          "page_number": 60,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0060",
+          "text": "7.4 Rumah Tangga Penerima Program Keluarga Harapan (PKH)\n9 pernah\nPersentase rumah tangga PROV. PAPUA TENGAH Y < bs! penerima PKH terendah oS -¢ de . e ’ ’ =~> 4 sane! woe‘s 3,07% \\ or pe me: a ve. , - ~ Y a me, i } Oe mmo On SL oad Persentase rumah tangga : . penerima PKH tertinggi ‘ PROV. NUSA TENGGARA TIMUR anew\nSai(ES _ Berkotaan\n50\n**50 Infografis Statistik Kesejahteraan Rakyat 2025**"
+        }
+      ],
+      "tables": [],
+      "figures": [],
+      "section_id": "7.4"
+    },
+    {
+      "title": "7.5 Pemanfaatan Bantuan PKH",
+      "level": 1,
+      "source": "markdown",
+      "page_start": 61,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 61,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0061",
+          "text": "# 7.5 Pemanfaatan Bantuan PKH"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "PKH, 2025",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 61,
+      "page_end": 61,
+      "blocks": [
+        {
+          "page_number": 61,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0061",
+          "text": "## PKH, 2025\nAgen Bank mATM m Kantor Pos gm Pendamping, Ketua Kelompok mw Kantor Bank Rumah Tangga Tangga Penerima PKH Menurut Pemanfaatan Bantuan PKH, 2025 Belanja Pangan 87,76% |\nPersentase Rumah Tangga Tangga Penerima PKH Menurut Provinsi dan Pemanfaatan Bantuan PKH, 2025\na a3 = S \\ ; / a 6)\n51\n**LAINNYA 51**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "DATAR 7.6 Kepemilikan TV Layar Datar MINIMAL 30 INCI,",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 62,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 62,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0062",
+          "text": "## DATAR 7.6 Kepemilikan TV Layar Datar MINIMAL 30 INCI,\nNASIONAL (l ) page| ilcadealda ain Perdesaan Sekitar 27 marmite evardari 100 deearurinienelh eine t fee= 14,47 %oOo Rumah Tangga yang memiliki TV"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Persentase Rumah Tangga yang memiliki TV Layar",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 62,
+      "page_end": 62,
+      "blocks": [
+        {
+          "page_number": 62,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0062",
+          "text": "## Persentase Rumah Tangga yang memiliki TV Layar\n52\n**52 Infografis Statistik Kesejahteraan Rakyat 2025**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Kepemilikan Uang Elektronik",
+      "level": 2,
+      "source": "section",
+      "page_start": 63,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 63,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0063",
+          "text": "7.7 Kepemilikan Uang Elektronik"
+        }
+      ],
+      "tables": [],
+      "figures": [],
+      "section_id": "7.7"
+    },
+    {
+      "title": "E-Wallet NASIONAL @l', . ’ 0 E-Money 33,04% = 7°\" Sekitarmemiliki 33 dari uang 1OO rumah elektronik tangga oa 14.93% Rumah Tangga yang Memiliki",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 63,
+      "page_end": 63,
+      "blocks": [
+        {
+          "page_number": 63,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0063",
+          "text": "## E-Wallet NASIONAL @l', . ’ 0 E-Money 33,04% = 7°\" Sekitarmemiliki 33 dari uang 1OO rumah elektronik tangga oa 14.93% Rumah Tangga yang Memiliki\nPersentase Rumah Tangga yang Memiliki Uang\n28Provns Sumber: Badan Pusatci AtasStatistik, NasionalSurvei Sosial Ekonomi Nasional (Susenas) Maret 2025\n53\n**LAINNYA**\n**53**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "BPNT/SEMBAKO, 2025 7.8 Rumah Tangga Penerima Bantuan Pangan",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 64,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 64,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0064",
+          "text": "## BPNT/SEMBAKO, 2025 7.8 Rumah Tangga Penerima Bantuan Pangan"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "pernah menerima BPNT/Prgram }[Sembako]",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 64,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 64,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0064",
+          "text": "## pernah menerima BPNT/Prgram }[Sembako]\nsecara nontunai dari pemerintah yang diberikan kepada KPM setiap\nprogram Bantuan Sosial pangan tunai atau nontunai kepada yang terdaftar dalam data Tangga Penerima Provinsi, 202 penerima PROV. —_\nProgram Sembako adalah program Bantuan Sosial pangan yang diberikan dalam bentuk tunai atau nontunai kepada keluarga penerima manfaat yang terdaftar dalam data terpadu kesejahteraan sosial."
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "Persentase Rumah Tangga Penerima BPNT/Sembako menurut Provinsi, 202",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 64,
+      "page_end": 64,
+      "blocks": [
+        {
+          "page_number": 64,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0064",
+          "text": "## Persentase Rumah Tangga Penerima BPNT/Sembako menurut Provinsi, 202\ns\n3,28% [aioe\n54\n**Infografis Statistik Kesejahteraan Rakyat 2025**\n**54**"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "ee",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 65,
+      "page_end": null,
+      "blocks": [
+        {
+          "page_number": 65,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0065",
+          "text": "## ee"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "**DAFTAR PUSTAKA** You",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 65,
+      "page_end": 66,
+      "blocks": [
+        {
+          "page_number": 65,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0065",
+          "text": "## **DAFTAR PUSTAKA** You\n- Pemerintah Indonesia. 2004. _Undang-Undang Nomor 40 Tahun 2004 tentang Sistem Jaminan Sosial Nasional_ . Jakarta: Sekretariat Negara.\n- Pemerintah Indonesia. 2019. _Undang-Undang Nomor 16 Tahun 2019 tentang Perubahan Atas Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan._ Jakarta: Sekretariat Negara.\n- World Health Organization. 2011. _WHO guidelines on preventing early pregnancy and poor reproductive health outcomes among adolescents in developing countries._ Geneva: World Health Organization.\n- —. 2014. _Global Nutrition Targets 2025 Low Birth Weight Policy Brief._ Geneva: World Health Organization.\n- World Health Organization, and United Nations Children's Fund (UNICEF). 2021. _Indicators for assessing infant and young child feeding practices: definitions and measurement methods._ Geneva: World Health Organization and the United Nation Children's Fund (UNICEF).\n55\n**DAFTAR PUSTAKA 55** @"
+        },
+        {
+          "page_number": 66,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0066",
+          "text": "56"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "ee",
+      "level": 2,
+      "source": "markdown",
+      "page_start": 67,
+      "page_end": 67,
+      "blocks": [
+        {
+          "page_number": 67,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0067",
+          "text": "## ee\n57"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    },
+    {
+      "title": "ares Oasillsa ia alin .==”\"—_—_I ? © Seg oe Pg a DATA ~&< MENCERDASKAN BANGSA",
+      "level": 1,
+      "source": "markdown",
+      "page_start": 68,
+      "page_end": 68,
+      "blocks": [
+        {
+          "page_number": 68,
+          "chunk_id": "infografis-statistik-kesejahteraan-rakyat-2025__p0068",
+          "text": "# ares Oasillsa ia alin .==”\"—_—_I ? © Seg oe Pg a DATA ~&< MENCERDASKAN BANGSA\n58"
+        }
+      ],
+      "tables": [],
+      "figures": []
+    }
+  ],
+  "document_tables": [],
+  "document_figures": []
+}

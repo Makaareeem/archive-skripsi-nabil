@@ -1,0 +1,2 @@
+﻿basis,accepted_qa_target,estimated_calls_including_extra,estimated_input_tokens,estimated_output_tokens,serial_generation_hours,ideal_parallel_generation_hours,qa_to_review_under_sampling_assumption,review_person_hours
+ASUMSI_PERENCANAAN_DATASET,10000,2750,,,,,1000,33.333333333333336

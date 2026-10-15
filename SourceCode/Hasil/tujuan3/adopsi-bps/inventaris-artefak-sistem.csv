@@ -1,0 +1,8 @@
+﻿component,bytes,basis,path
+index_and_metadata,115133681.0,"ukuran berkas saat analisis, bukan RAM",D:\Politeknik Statistika STIS\Pembelajaran\Skripsi\SourceCode\Sistem QA RAG\app\kb_cache\faiss_index.bin; D:\Politeknik Statistika STIS\Pembelajaran\Skripsi\SourceCode\Sistem QA RAG\app\kb_cache\chunk_metadata.jsonl
+llm_model,2019377778.0,Ollama inventory pada sesi uji; bukan kebutuhan VRAM,model_inventory_before
+documents,,belum diukur,
+embedding_model,,belum diukur,
+reranker_model,,belum diukur,
+runtime_environment,,belum diukur,
+logs,,belum diukur,

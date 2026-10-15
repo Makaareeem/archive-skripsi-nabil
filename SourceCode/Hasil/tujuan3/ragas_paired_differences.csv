@@ -1,0 +1,7 @@
+comparison,answer_relevancy,faithfulness,context_relevance
+"K2-K1 (llama3.2, efek RAG di base)",0.3562937552330709,,
+"K4-K3 (llama3.2, efek RAG di fine-tuned)",0.017124524372229066,,
+"K4-K2 (llama3.2, efek fine-tuning, controlled)",-0.08854819324808483,0.0356465319948466,0.0028089887640449437
+"K2-K1 (gemma2, efek RAG di base)",0.20002357680952218,,
+"K4-K3 (gemma2, efek RAG di fine-tuned)",0.05314056537878072,,
+"K4-K2 (gemma2, efek fine-tuning, controlled)",0.0745049086933241,0.043780096308186196,-0.0056179775280898875
